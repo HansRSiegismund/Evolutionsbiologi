@@ -94,11 +94,11 @@ foretages på følgende måde (Det er en god idé både at bestemme *p* og *q*; 
 </br>
 
 |Genotype   | *A*<sub>1</sub>*A*<sub>1</sub> | *A*<sub>1</sub>*A*<sub>2</sub>| *A*<sub>2</sub>*A*<sub>2</sub>|Sum|
-|-----------|:--------------:|:--------------:|:---------------:|:--:|
-|Observeret |*N*<sub>11</sub>|*N*<sub>12</sub>|*N*<sub>22</sub> |*N* |
+|-----------|:--------------:|:--------------:|:---------------:|:---:|
+|Observeret |*N*<sub>11</sub>|*N*<sub>12</sub>|*N*<sub>22</sub> |*N*  |
 |Forventet  |*E*<sub>11</sub>|*E*<sub>12</sub>|*E*<sub>22</sub>  |*N* |
 |           |=               |=               |=                 |    |
-|           |*p*<sup>2</sup>*N*|2*pqN*        |*q*<sup>2</sup>*N*|*N*|
+|           |*p*<sup>2</sup>*N*|2*pqN*        |*q*<sup>2</sup>*N*|*N* |
 
 
 </br>
@@ -343,45 +343,38 @@ den samme population.
 <p>
 
 | Locus    ||
-| :-------- |:-------:|
-|I|1,0|
-|II |0,9|
-|III |0,5 |
-|IV|0,0| 
-|V |0,5 |
+|:-------- |:-------:|
+|I         |1,0|
+|II        |0,9|
+|III       |0,5|
+|IV        |0,0| 
+|V         |0,5 
 </p>
 </details>
 
-2)  Hvilke af de ovenstående fordelinger udviser Hardy-Weinberg
-    proportioner og hvilke gør ikke? (Test burde ikke være nødvendig.)
- fem fordelinger?
+2)  Hvilke af de ovenstående fordelinger udviser Hardy-Weinberg proportioner og hvilke gør ikke? (Test burde ikke være nødvendig.)
 
 <details><summary>Klik for at se svaret.</summary>
 <p>
 
-| Locus    ||
-| :-------- |:-------:|
-|I|1,0|
-|II |0,9|
-|III |0,5 |
-|IV|0,0| 
-|V |0,5 |
+|Locus|                                                                     |
+|:---| :--------------------------------------------------------------------|
+|I   | Ja, men kan ikke testes, da antallet af frihedsgrader er 0 til testen|
+|II  | Ja, perfekt overensstemmelse                                         |
+|III | Nej, forventede er 25, 50, 25. Stor afvigelse, χ<sup>2</sup> = 100   |
+|IV  | Ja, men kan ikke testes, da antallet af frihedsgrader er 0 til testen| 
+|V   | Nej, forventede er 25, 50, 25. Stor afvigelse, χ<sup>2</sup> = 100   |
 </p>
 </details>
-
 
 3)  Hvad kan have forårsaget afvigelser fra Hardy-Weinberg proportioner?
 
-<details><summary>Klik for at se svaret.</summary>
+ <details><summary>Klik for at se svaret.</summary>
 <p>
+|Locus  |    |
+|III			 |Naturlig selektion, overdominant selektion|
+|V			   |Indavl, populationsblanding                
 
-| Locus    |                                                                      |
-| :-------- | :--------------------------------------------------------------------|
-|I| Ja, men kan ikke testes, da antallet af frihedsgrader er 0 til testen|
-|II | Ja, perfekt overensstemmelse                                         |
-|III | Nej, forventede er 25, 50, 25. Stor afvigelse, χ<sup>2</sup> = 100   |
-|IV| Ja, men kan ikke testes, da antallet af frihedsgrader er 0 til testen| 
-|V | Nej, forventede er 25, 50, 25. Stor afvigelse, χ<sup>2</sup> = 100   |
 </p>
 </details>
 
