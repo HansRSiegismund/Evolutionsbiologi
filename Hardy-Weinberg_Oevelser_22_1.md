@@ -1,5 +1,5 @@
 <span style="font-family:cursive;"> 
-# Hardy-Weinberg samt variation i to loci
+#Hardy-Weinberg samt variation i to loci
 <font size="4"> 
 
 Hans R. Siegismund
