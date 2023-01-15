@@ -1,6 +1,4 @@
 <span style="font-family:cursive;"> 
-
- 
 # Hardy-Weinberg samt variation i to loci
 <font size="4"> 
 
@@ -11,7 +9,6 @@ Hans R. Siegismund
 
 Betragt en diploid population, hvor vi ser på variation i et autosomalt
 locus med to allele gener *A*<sub>1</sub> og *A*<sub>2</sub>. Vi tager en stikprøve på *N* individer. Disse *N* fordeler sig på de tre genotyper som følger
-</font>
 
 </br>
 
@@ -228,7 +225,7 @@ populationens sammensætning beskrives på følgende måde
 Allelfrekvenserne beregnes ud fra relationen mellem frekvensen af den
 recessive allel og frekvensen af den recessive homozygot. Da vi har, at
 
-*q*<sup>2</sup>× *N* = *N<sub>dd</sub>*
+$$q^2N=N_{dd}$$
 
 får vi dermed, at
 
@@ -261,7 +258,7 @@ med genotyperne *X*<sub>1</sub>*Y* og *X*<sub>2</sub>*Y*. Vi antager nu, at alle
 
 </br>
 
-   ||   <span style="color:red">Hunner </style>|||<span style="color:blue">Hanner</style> ||
+   ||   <span style="color:red">Hunner |||<span style="color:blue">Hanner ||
  | -|:-----:|:--:|:--:|- |-|
 Genotype |<span style="color:red">*X*<sub>1</sub>*X*<sub>1</sub>|<span style="color:red">*X*<sub>1</sub>*X*<sub>2</sub>|<span style="color:red">*X*<sub>2</sub>*X*<sub>2</sub>|<span style="color:blue">*X*<sub>1</sub>*Y*|<span style="color:blue">*X*<sub>2</sub>*Y*|
 Forventet  |<span style="color:red">*p*<sup>2</sup>|<span style="color:red">2*pq*|<span style="color:red">*q*<sup>2</sup>|<span style="color:blue">*p*|<span style="color:blue">*q*|
@@ -288,7 +285,6 @@ to figurer.
 
 </br>
 
-
 # Hardy-Weinberg øvelser
 
 ## Formål
@@ -299,14 +295,13 @@ Disse øvelser har deres fokus på
   for autosomale loci med dominans mellem allelerne
 - at beregne forventede Hardy-Weinberg frekvenser
 - at teste for afvigelser fra Hardy-Weinberg frekvenser
-- at kvantificere afvigelser fra Hardy-Weinberg frekvenser ved hjælp af   indavls­koefficienten *F*
+- at kvantificere afvigelser fra Hardy-Weinberg frekvenser ved hjælp af   indavlskoefficienten *F*
 
 **Opgave 1**
 
 Betragt de følgende genotypefordelinger i fem autosomale loci (I-V).
 
 </br>
-
 
 | Locus    |11 |12 |22 |Sum|
 | :-------- |--:|--:|--:|--:|
@@ -316,7 +311,6 @@ Betragt de følgende genotypefordelinger i fem autosomale loci (I-V).
 |IV|0  |0  |100|100|
 |V |50 |0  |50 |100|
  
-
 </br>
 
 Bemærk: Hvis der er afvigelser fra Hardy-Weinberg proportioner i
@@ -411,7 +405,6 @@ Vi har ingen mulighed for at teste for Hardy-Weinberg-proportioner blandt børne
 </p>
 </details>
 
-
 Ved fødsler brister placentabarrieren, hvorved der trænger lidt af
 fostrets blod over i moderen. En Rhesus-negativ kvinde, som føder sit
 første Rhesus-positive foster, bliver derved immuniseret mod fostrets
@@ -427,7 +420,6 @@ kan man dog forebygge de fleste forekomster af sygdommen.
 Selektionen opstår, når Rhesus-negative kvinder får Rhesus-positive børn. Moderens genotype er jo rhrh, og da hun altid afleverer allelen rh til sit barn, må det have genotypen Rhrh, når det har fænotypen Rhesus-positiv. Naturlig selektion virker derfor mod heterozygoter, der er tale om underdominant selektion. Denne form for selektion er ustabil, hvor vi forventer at systemet fikseres for enten den ene eller den anden allel. Det er uklart, hvad der har opretholdt polymorfien. Med de medicinske behandlinger, der findes i dag, må man nok antage, at der ikke længere er forskel i de tre genotypers fitness.
 </p>
 </details>
-
 
 </br>
 
@@ -497,13 +489,11 @@ De forventede antal under antagelse af Hardy-Weinberg proportioner beregnes på 
 Bemærk det store overskud af homozygoter – som er lige store for hver af homozygoterne. Overensstemmelse med Hardy-Weinberg proportioner testes ved hjælp af en χ<sup>2</sup> test, hvor teststørrelsen findes som
 
 $
-\scriptsize
 \chi^2 =\sum_{i=1}^3\frac{(O_i-E_i)^2}{E_i}
 $
 
  som for frøplanternes tilfælde bliver
 $
-\scriptsize
 \chi^2 =\frac{(79-70,63)^2}{70,63}+\frac{(43-59,74)^2}{59,74}+\frac{21-12,63}{12,63}=12,23
 $
  
@@ -567,10 +557,8 @@ Fra frøplantestadiet til voksenstadiet bliver alle individer, der produceret ve
 <details><summary>Klik for at se svaret.</summary>
 <p>
 
-
 </p>
 </details>
-
 
 </br>
 
@@ -579,7 +567,6 @@ Fra frøplantestadiet til voksenstadiet bliver alle individer, der produceret ve
 En stikprøve af katte i Singapore havde følgende fordeling af pelsfarven:
 
 </br>
-
 
 |        | Mørk | Middel | Lys | Sum |
 |--------|------|--------|-----|-----|
@@ -626,7 +613,6 @@ b\) Bestem frekvensen af de to observerede fænotyper hos hannerne.
 
 *f*(♂, lys)     = 38 / 112 = 0,339
 
-
 </p>
 </details>
 
@@ -643,10 +629,8 @@ Da fænotypen Middel slet ikke observeres hos hannerne, tyder det på, at genet 
 |Hunner	|*X*<sub>M</sub>*X*<sub>M</sub>M|*X*<sub>M</sub>*X*<sub>L</sub>|*X*<sub>L</sub>*X*<sub>L</sub>
 |Hanner	|*X*<sub>M</sub>*Y*||	  	*X*<sub>L</sub>*Y*|
 
-
 </p>
 </details>
-
 
 </br>
 
@@ -684,7 +668,6 @@ Samlet: Nej, vi kan ikke have 99 heterozygoter og 93 homozygote 22 uden at obser
 </p>
 </details>
 
-
 Der er også undersøgt tre andre loci, der alle viste overensstemmelse
 med Hardy-Weinberg proportioner, så man kan gå ud fra, at der synes at
 være tilfældig parring i populationen.
@@ -701,10 +684,8 @@ Køn |			11	|	12	|	22	|	Sum|
 |Hunner	|  	  0|		*Z*<sub>2</sub>*W*<sub>1</sub>|		  0	|	   99|
 |Hanner	|	  0|		  0	|	*Z*<sub>2</sub>*Z*<sub>2</sub>|		   93|
 
-
 </p>
 </details>
-
 
 </br>
 
@@ -726,7 +707,6 @@ a)  Hvad er frekvensen af de fire mulige haplotyper?
 <details><summary>Klik for at se svaret.</summary>
 <p>
 
-
 *f*<sub>AB</sub> = 0.7 × 0.8 = 0.56
 
 *f*<sub>Ab</sub> = 0.7 × 0.2 = 0.14
@@ -735,13 +715,10 @@ a)  Hvad er frekvensen af de fire mulige haplotyper?
 
 *f*<sub>ab</sub>  = 0.3 × 0.2 = 0.06
 
-
 </p>
 </details>
 
-
 </br>
-
 
 **Opgave 7**
 
