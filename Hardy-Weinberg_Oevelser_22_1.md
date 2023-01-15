@@ -1,14 +1,17 @@
 <span style="font-family:cursive;"> 
 
- {% assign indent = "&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;" %}
-
-
+ 
 # Hardy-Weinberg samt variation i to loci
 <font size="4"> 
 
 Hans R. Siegismund
 ## Teoretisk baggrund
 
+$X^2$
+ 
+$$X^2$$
+ 
+$$$X^2$$$
 **Hardy-Weinberg loven**
 
 Betragt en diploid population, hvor vi ser på variation i et autosomalt
@@ -371,9 +374,11 @@ den samme population.
 
  <details><summary>Klik for at se svaret.</summary>
 <p>
-|Locus  |    |
+ 
+|Locus  |                                          |
+|-------|------------------------------------------| 
 |III			 |Naturlig selektion, overdominant selektion|
-|V			   |Indavl, populationsblanding                
+|V			   |Indavl, populationsblanding               |
 
 </p>
 </details>
