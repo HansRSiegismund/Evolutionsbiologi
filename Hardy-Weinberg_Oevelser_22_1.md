@@ -7,11 +7,6 @@
 Hans R. Siegismund
 ## Teoretisk baggrund
 
-$X^2$
- 
-$$X^2$$
- 
-$$$X^2$$$
 **Hardy-Weinberg loven**
 
 Betragt en diploid population, hvor vi ser på variation i et autosomalt
@@ -109,10 +104,10 @@ foretages på følgende måde (Det er en god idé både at bestemme *p* og *q*; 
 Allelfrekvenserne bestemmes som beskrevet foroven. Når man angiver allelfrekvenser, bør man benytte et antal decimaler, der svarer til stikprøvens størrelse. For eksempel, hvis *N* \< 50 har det ingen mening at angive allelfrekvensen med mere end to decimaler. Det er dog vigtigt at beregne de forventede genotypefordelinger med værdier, der ikke afrundes.
 
 Den observerede og den forventede fordeling kan sammenlignes med et “Goodness of fit”-test. Teststørrelsen
-$$$
+$$
 \scriptsize
 \chi ^2=\sum_i \frac{(O_i-E_i)^2}{E_i}
-$$$
+$$
 er tilnærmelsesvis χ<sup>2</sup>-fordelt med én enkelt frihedsgrad. Antallet af frihedsgrader fremkommer på følgende måde. Antallet af
 frihedsgrader for at beskrive den observerede genotypefordeling er 2. Vi kender jo summen, og når vi kender de to, kan den tredje jo nemt
 udledes. Antallet af frihedsgrader for at beskrive allelernes frekvens er én. Kender vi frekvensen af én allel, kan den andens frekvens jo bestemmes som dens difference fra 1. Testens frihedsgrader er differencen i antallet af frihedsgrader for at beskrive henholdsvis genotypefordeling og allelfordeling, hvilket er 2 – 1 = 1. Er
@@ -247,13 +242,13 @@ recessive allel og frekvensen af den recessive homozygot. Da vi har, at
 
 får vi dermed, at
 
-$$$
+$$
 \scriptsize
 q=\sqrt{N_{dd}/N}
-$$$
+$$
 og
 
-*p* = 1 – *q*.
+$$ p = 1 – q.$$
 
 Forudsætningen herfor er, som allerede nævnt, at der er
 Hardy-Weinberg-proportioner for dette locus i populationen. Såfremt
@@ -415,20 +410,20 @@ udspaltninger i Rhesus-systemet hos de tre mulige forældrekombinationer:
 <p>
 
 Blandt de 375 børn har vi 302 Rh+ og 73Rh− individer. Under antagelse af Hardy-Weinberg-proportioner kan vi beregne frekvensen af den recessive allel. Det forventede antal rhrh individer, N(Rh−), er givet ved
-$$$
+$$
 \scriptsize
 N(Rh-) = Nq^2
-$$$
+$$
 så vi kan beregne allelfrekvensen som
-$$$
+$$
 \scriptsize
 q = \sqrt{N(Rh-)/N}
-$$$ 
+$$ 
 Frekvensen af Rh-allelen findes som
- $$$
+ $$
 \scriptsize
 q = \sqrt{73/375}=0,441
-$$$
+$$
 
 Vi har ingen mulighed for at teste for Hardy-Weinberg-proportioner blandt børnene, da vi beskriver deres fænotypefordeling med en enkelt frihedsgrad; summen af de to fænotyper er jo givet. Ligeledes beskrives allelfrekvensen med en enkelt frihedsgrad, da deres sum er 1. Der er ingen frihedsgrad tilovers til testen. De observerede og forventede er lig med hinanden. 
 
@@ -465,10 +460,10 @@ frøproducerende voksne planter i en population fra Langtved:
 
 </br>
 
-|                 | 11     |  12   | 22  |Sum|
-|:--------------- | ------ | ----- | --- |---|
-|Frøplanter       | 79     |  43   |21 |143|
-|Voksne           | 55     |  47   |10 |112|
+|                 | 11     |  12   | 22 |Sum|
+|:--------------- | ------ | ----- |----|---|
+|Frøplanter       | 79     |  43   |21  |143|
+|Voksne           | 55     |  47   |10  |112|
 
 </br>
 
@@ -520,15 +515,15 @@ De forventede antal under antagelse af Hardy-Weinberg proportioner beregnes på 
 
 Bemærk det store overskud af homozygoter – som er lige store for hver af homozygoterne. Overensstemmelse med Hardy-Weinberg proportioner testes ved hjælp af en χ<sup>2</sup> test, hvor teststørrelsen findes som
 
-$$$
+$$
 \scriptsize
 \chi^2 =\sum_{i=1}^3\frac{(O_i-E_i)^2}{E_i}
-$$$
+$$
 som for frøplanternes tilfælde bliver
-$$$
+$$
 \scriptsize
 \chi^2 =\frac{(79-70,63)^2}{70,63}+\frac{(43-59,74)^2}{59,74}+\frac{21-12,63}{12,63}=12,23
-$$$
+$$
 Teststørrelsen er derfor signifikant på 5% niveauet, når den overstiger 3,84. Dette er tilfældet for frøplanterne, så vi forkaster hypotesen om Hardy-Weinberg proportioner for dem.
 
 For de voksne er resultatet 
@@ -626,10 +621,10 @@ p(♀, L)  = (2 × 12 + 55) / (2 × 130) = 0,304
 
 Lad os så teste, om hunnernes genotypefordeling stemmer overens med den forventede Hardy-Weinberg-fordeling.
 
-|                   |MM	|ML	|LL|	Sum|
-|:------------|:---	|:----|:--|:---|
-|Observeret	|63	    |55       |	12	|130|
-|Forventet	 |63,00	|55,00	|12,00	|130|
+|           |MM	    |ML	  |LL    |	Sum|
+|:----------|:------|:----|:-----|:---|
+|Observeret	|63	    |55   |	12	  |130 |
+|Forventet	 |63,00	 |55,00|12,00	|130 |
 
 Vi ser en perfekt overensstemmelse med Hardy-Weinberg proportioner, så en test er unødvendig. Den ville resultere i en χ<sup>2</sup>-værdi på 0.
 
@@ -792,10 +787,10 @@ b)  Hvad er “coefficient of linkage disequilibrium” *D* i dette  tilfælde?
 <details><summary>Klik for at se svaret.</summary>
 <p>
 
-$$$ 
+$$ 
 \scriptsize
 D = f_{AB} -p_A\times p_B=0,5-0,5\times0,5=0,5
-$$$
+$$
 
 </p>
 </details>
