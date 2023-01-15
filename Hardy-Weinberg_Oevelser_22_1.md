@@ -101,7 +101,7 @@ Allelfrekvenserne bestemmes som beskrevet foroven. Når man angiver allelfrekven
 
 Den observerede og den forventede fordeling kan sammenlignes med et “Goodness of fit”-test. Teststørrelsen
 
-$\chi^2=\sum_i \frac{(O_i-E_i)^2}{E_i}$
+$\displaystyle\chi^2=\sum_i \frac{(O_i-E_i)^2}{E_i}$
 
 er tilnærmelsesvis χ<sup>2</sup>-fordelt med én enkelt frihedsgrad. Antallet af frihedsgrader fremkommer på følgende måde. Antallet af frihedsgrader for at beskrive den observerede genotypefordeling er 2. Vi kender jo summen, og når vi kender de to, kan den tredje jo nemt udledes. Antallet af frihedsgrader for at beskrive allelernes frekvens er én. Kender vi frekvensen af én allel, kan den andens frekvens jo bestemmes som dens difference fra 1. Testens frihedsgrader er differencen i antallet af frihedsgrader for at beskrive henholdsvis genotypefordeling og allelfordeling, hvilket er 2 – 1 = 1. Er teststørrelsen større end 3,84 forkaster vi hypotesen på 5% niveauet; dvs., den genetiske variation i det betragtede locus anses for ikke at
 være i overensstemmelse med Hardy-Weinberg proportioner. Hvis vi accepterer hypotesen, kan vi kun udtale at genotypefordelinger stemmer overens med Hardy-Weinberg fordelingen; vi kan ikke sige noget om, hvorvidt der er Hardy-Weinberg ligevægt i populationen!!!
@@ -624,7 +624,7 @@ Da fænotypen Middel slet ikke observeres hos hannerne, tyder det på, at genet 
 
 |Køn      |	Mørk	|Middel|	Lys|
 |---      |:-------:|:------:|:---:|
-|Hunner	|*X*<sub>M</sub>*X*<sub>M</sub>M|*X*<sub>M</sub>*X*<sub>L</sub>|*X*<sub>L</sub>*X*<sub>L</sub>
+|Hunner	|*X*<sub>M</sub>*X*<sub>M</sub>|*X*<sub>M</sub>*X*<sub>L</sub>|*X*<sub>L</sub>*X*<sub>L</sub>
 |Hanner	|*X*<sub>M</sub>*Y*||	  	*X*<sub>L</sub>*Y*|
 
 </p>
