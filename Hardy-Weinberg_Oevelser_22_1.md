@@ -277,7 +277,7 @@ mænd, der lider af denne sygdom.
 
 
  <figure>
-  <img  align="right" src="HWFarveblind.png" width=170 title="*Avena*">
+  <img  align="right" src="HWFarveblind.png" width=200 title="*Farveblind*">
  </figure>
 
 *Eksempel*: Rød-grøn farveblindhed nedarves kønsbundet hos mennesket.
@@ -413,7 +413,7 @@ antigen og danner antistoffer. Ved næste graviditet transporteres disse
 antistoffer til fostret via placentaen og skader fostret. Nu til dags
 kan man dog forebygge de fleste forekomster af sygdommen.
 
- c\) Mod hvilken genotype virker selektionen, som skyldes Rhe­sus-sygdommen?
+ c\) Mod hvilken genotype virker selektionen, som skyldes Rhesus-sygdommen?
 
 <details><summary>Klik for at se svaret.</summary>
 <p>
@@ -426,7 +426,7 @@ Selektionen opstår, når Rhesus-negative kvinder får Rhesus-positive børn. Mo
 
 **Opgave 3**
  <figure>
-  <img  align="right" src="HWSilene.png" width=130 title="*Avena*">
+  <img  align="right" src="HWSilene.png" width=150 title="*Silene*">
  </figure>
 
 Nikkende limurt (*Silene nutans*) er en hermafroditisk selvkompatibel[^2] plante. I en undersøgelse af planten fandt man den følgende genotypefordeling i et enzymlocus hos henholdsvis nyspirede frøplanter samt hos frøproducerende voksne planter i en population fra Langtved:
@@ -634,7 +634,7 @@ Da fænotypen Middel slet ikke observeres hos hannerne, tyder det på, at genet 
 
 **Opgave 5 (for nørder)**
  <figure>
-  <img  align="right" src="HWJaera.png" width=130 title="*Jaera*">
+  <img  align="right" src="HWJaera.jpg" width=150 title="*Jaera*">
  </figure>
 
 På danske strande med forekomst af sten, på høfder og i algebevoksninger
