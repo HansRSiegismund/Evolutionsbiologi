@@ -428,8 +428,7 @@ Selektionen opstår, når Rhesus-negative kvinder får Rhesus-positive børn. Mo
   <img  align="right" src="HWSilene.png" width=130 title="*Avena*">
  </figure>
 
-Nikkende limurt (*Silene nutans*) er en hermafroditisk selvkompatibel[^2] plante. I en under­søgelse af planten fandt man den følgende genotypefordeling i et enzymlocus hos henholdsvis nyspirede frøplanter samt hos
-frøproducerende voksne planter i en population fra Langtved:
+Nikkende limurt (*Silene nutans*) er en hermafroditisk selvkompatibel[^2] plante. I en undersøgelse af planten fandt man den følgende genotypefordeling i et enzymlocus hos henholdsvis nyspirede frøplanter samt hos frøproducerende voksne planter i en population fra Langtved:
 
 </br>
 
@@ -439,7 +438,6 @@ frøproducerende voksne planter i en population fra Langtved:
 |Voksne           | 55     |  47   |10  |112|
 
 </br>
-
 
  a\) Bestem allelfrekvenserne hos begge grupper.
 
@@ -488,14 +486,15 @@ De forventede antal under antagelse af Hardy-Weinberg proportioner beregnes på 
 
 Bemærk det store overskud af homozygoter – som er lige store for hver af homozygoterne. Overensstemmelse med Hardy-Weinberg proportioner testes ved hjælp af en χ<sup>2</sup> test, hvor teststørrelsen findes som
 
-$
-\chi^2 =\sum_{i=1}^3\frac{(O_i-E_i)^2}{E_i}
-$
+$$
+ \chi^2 =\sum_{i=1}^3\frac{(O_i-E_i)^2}{E_i}
+$$
 
- som for frøplanternes tilfælde bliver
-$
+som for frøplanternes tilfælde bliver
+ 
+$$
 \chi^2 =\frac{(79-70,63)^2}{70,63}+\frac{(43-59,74)^2}{59,74}+\frac{21-12,63}{12,63}=12,23
-$
+$$
  
 Teststørrelsen er derfor signifikant på 5% niveauet, når den overstiger 3,84. Dette er tilfældet for frøplanterne, så vi forkaster hypotesen om Hardy-Weinberg proportioner for dem.
 
@@ -510,7 +509,7 @@ For de voksne er resultatet
 </p>
 </details>
 
- d\) Bestem indavlskoefficienten *F* for begge grupper. [*F* =
+d\) Bestem indavlskoefficienten *F* for begge grupper. [*F* =
  (*H<sub>e</sub>* – *H<sub>o</sub>*)/*H<sub>e</sub>*, hvor
  *H<sub>e</sub>* og *H<sub>o</sub>* er henholdsvis forventet og
  observeret hyppighed af heterozygoter. Når *F* er positiv, er der
@@ -532,7 +531,6 @@ Voksne: *F* =  (46,96 – 47)/ 46,96 = –0,001
 
 e) Hvad kan have forårsaget en eventuel afvigelse fra Hardy-Weinberg
  proportioner?
-
 
 <details><summary>Klik for at se svaret.</summary>
 <p>
@@ -597,7 +595,6 @@ Lad os så teste, om hunnernes genotypefordeling stemmer overens med den forvent
 |Forventet	 |63,00	 |55,00|12,00	|130 |
 
 Vi ser en perfekt overensstemmelse med Hardy-Weinberg proportioner, så en test er unødvendig. Den ville resultere i en χ<sup>2</sup>-værdi på 0.
-
 
 </p>
 </details>
