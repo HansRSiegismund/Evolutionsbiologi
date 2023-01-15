@@ -200,11 +200,11 @@ tre alleler er givet ved
 
 </br>
 
-|     |*A*<sub>1</sub>|*A*<sub>2</sub> |*A*<sub>3</sub>|
-| :-------------:|:-------------: |:-------------:|:---:|
-*A*<sub>1</sub>| *p*<sub>1</sub><sup>2</sup>|2*p*<sub>1</sub>*p*<sub>2</sub>| 2*p*<sub>1</sub>*p*<sub>3</sub>||
-*A*<sub>2</sub>|| *p*<sub>2</sub><sup>2</sup>| 2*p*<sub>2</sub>*p*<sub>3</sub>||
-*A*<sub>3</sub> | ||*p*<sub>3</sub><sup>2</sup>|
+|               |*A*<sub>1</sub>            |*A*<sub>2</sub>                |*A*<sub>3</sub>                |
+|:-------------:|:-------------------------:|:-----------------------------:|:-----------------------------:|
+|*A*<sub>1</sub>|*p*<sub>1</sub><sup>2</sup>|2*p*<sub>1</sub>*p*<sub>2</sub>|2*p*<sub>1</sub>*p*<sub>3</sub>|
+|*A*<sub>2</sub>|                           | *p*<sub>2</sub><sup>2</sup>   |2*p*<sub>2</sub>*p*<sub>3</sub>|
+|*A*<sub>3</sub>|                           |                               |*p*<sub>3</sub><sup>2</sup>    |
 
 </br>
 
@@ -242,10 +242,11 @@ recessive allel og frekvensen af den recessive homozygot. Da vi har, at
 
 får vi dermed, at
 
-$$
+$
 \scriptsize
 q=\sqrt{N_{dd}/N}
-$$
+$
+
 og
 
 $$ p = 1 – q.$$
@@ -515,15 +516,17 @@ De forventede antal under antagelse af Hardy-Weinberg proportioner beregnes på 
 
 Bemærk det store overskud af homozygoter – som er lige store for hver af homozygoterne. Overensstemmelse med Hardy-Weinberg proportioner testes ved hjælp af en χ<sup>2</sup> test, hvor teststørrelsen findes som
 
-$$
+$
 \scriptsize
 \chi^2 =\sum_{i=1}^3\frac{(O_i-E_i)^2}{E_i}
-$$
-som for frøplanternes tilfælde bliver
-$$
+$
+
+ som for frøplanternes tilfælde bliver
+$
 \scriptsize
 \chi^2 =\frac{(79-70,63)^2}{70,63}+\frac{(43-59,74)^2}{59,74}+\frac{21-12,63}{12,63}=12,23
-$$
+$
+ 
 Teststørrelsen er derfor signifikant på 5% niveauet, når den overstiger 3,84. Dette er tilfældet for frøplanterne, så vi forkaster hypotesen om Hardy-Weinberg proportioner for dem.
 
 For de voksne er resultatet 
@@ -558,7 +561,7 @@ Voksne: *F* =  (46,96 – 47)/ 46,96 = –0,001
 </details>
 
 e) Hvad kan have forårsaget en eventuel afvigelse fra Hardy-Weinberg
- propor­tioner?
+ proportioner?
 
 
 <details><summary>Klik for at se svaret.</summary>
