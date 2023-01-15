@@ -370,13 +370,13 @@ udspaltninger i Rhesus-systemet hos de tre mulige forældrekombinationer:
 
 </br>
 
-|                     |                | Børn |     |     |
-|---------------------|----------------|------|-----|-----|
-| Forældrekombination | Antal familier | Rh+  |     | Rh− |
-| Rh+ × Rh+           | 73             | 248  |     | 16  |
-| Rh+ × Rh−           | 20             | 54   |     | 23  |
-| Rh− × Rh−           | 7              | −    |     | 34  |
-|                     | Sum hos børn   | 302  |     | 73  |
+|                     |                | Børn |     |
+|---------------------|----------------|------|-----|
+| Forældrekombination | Antal familier | Rh+  | Rh− |
+| Rh+ × Rh+           | 73             | 248  | 16  |
+| Rh+ × Rh−           | 20             | 54   | 23  |
+| Rh− × Rh−           | 7              | −    | 34  |
+|                     | Sum hos børn   | 302  | 73  |
 
 </br>
 
