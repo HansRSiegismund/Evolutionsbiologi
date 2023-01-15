@@ -1,7 +1,7 @@
 <span style="font-family:cursive;"> 
 
-# Hardy-Weinberg samt variation i to loci
-<font size="4"> 
+# Hardy-Weinberg loven samt variation i to loci
+<font size="3"> 
 
 Hans R. Siegismund
 ## Teoretisk baggrund
