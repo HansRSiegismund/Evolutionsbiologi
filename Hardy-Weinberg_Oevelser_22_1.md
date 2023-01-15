@@ -486,7 +486,7 @@ De forventede antal under antagelse af Hardy-Weinberg proportioner beregnes på 
 
 Bemærk det store overskud af homozygoter – som er lige store for hver af homozygoterne. Overensstemmelse med Hardy-Weinberg proportioner testes ved hjælp af en χ<sup>2</sup> test, hvor teststørrelsen findes som
 
-$ \chi^2 =\sum_{i=1}^3\frac{(O_i-E_i)^2}{E_i}$
+$\chi^2 =\sum_{i=1}^3\frac{(O_i-E_i)^2}{E_i}$
 
 som for frøplanternes tilfælde bliver
  
