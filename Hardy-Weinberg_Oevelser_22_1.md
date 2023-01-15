@@ -477,11 +477,11 @@ De forventede antal under antagelse af Hardy-Weinberg proportioner beregnes på 
 |Genotype |11                      | 12     | 22             |Sum  |
 |-------- |:---------------------: |:------:|:--------------:|:--: |
 |O        |79                      | 43     | 21             |143  |
-|E        |*p*<sup>2</sup>*N*      | 2*pqN*  |*q*<sup>2</sup> |*N*  |
-|         |=                       |  =      | =              |     |
+|E        |*p*<sup>2</sup>*N*      | 2*pqN* |*q*<sup>2</sup> |*N*  |
+|         |=                       |  =     | =              |     |
 |         |0,703<sup>2</sup> × 143 |  2×0,703 ×0,297×143      | 0,297<sup>2</sup> × 143      |143  |
-|         |=                       |  =      | =              |     |
-|         |70,63                   |  59,74     | 12,63              |143  |
+|         |=                       |  =     | =              |     |
+|         |70,63                   |  59,74 | 12,63          |143  |
 </br>
 
 Bemærk det store overskud af homozygoter – som er lige store for hver af homozygoterne. Overensstemmelse med Hardy-Weinberg proportioner testes ved hjælp af en χ<sup>2</sup> test, hvor teststørrelsen findes som
@@ -496,9 +496,9 @@ Teststørrelsen er derfor signifikant på 5% niveauet, når den overstiger 3,84.
 
 For de voksne er resultatet 
 
-|Genotype|   |11   |	12   |	22|
-|--------|:- |:----| :----|:---|
-|Voksne	 |O	 |55   |	47   |	10|
+|Genotype|   |11   |	12   |	22    |
+|--------|:- |:----| :----|:------|
+|Voksne	 |O	 |55   |	47   |	10    |
 |        |E  |55,02| 46,96|	10,02 |
 
 χ<sup>2</sup> = 0,00, dvs. der er HW-proportioner.
