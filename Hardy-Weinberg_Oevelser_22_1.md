@@ -16,7 +16,7 @@ locus med to allele gener *A*<sub>1</sub> og *A*<sub>2</sub>. Vi tager en stikpr
  |Genotype| *A*<sub>1</sub>*A*<sub>1</sub>|*A*<sub>1</sub>*A*<sub>2</sub>|*A*<sub>2</sub>*A*<sub>2</sub>|Sum|
  |--------|:----------------:|:--------------:|:----------------:|:---:|
  |Antal   |*N*<sub>11</sub>  |*N*<sub>12</sub>|*N*<sub>22</sub>  | *N* |
- |Frekvens|*P*<sub>11</sub>  |*N*<sub>12</sub>|*P*<sub>22</sub>  | 1   |  
+ |Frekvens|*P*<sub>11</sub>  |*P *<sub>12</sub>|*P*<sub>22</sub>  | 1   |  
 
 </br>
 
@@ -89,11 +89,11 @@ foretages på følgende måde (Det er en god idé både at bestemme *p* og *q*; 
 </br>
 
 |Genotype   | *A*<sub>1</sub>*A*<sub>1</sub> | *A*<sub>1</sub>*A*<sub>2</sub>| *A*<sub>2</sub>*A*<sub>2</sub>|Sum|
-|-----------|:--------------:|:--------------:|:---------------:|:---:|
-|Observeret |*N*<sub>11</sub>|*N*<sub>12</sub>|*N*<sub>22</sub> |*N*  |
-|Forventet  |*E*<sub>11</sub>|*E*<sub>12</sub>|*E*<sub>22</sub>  |*N* |
-|           |=               |=               |=                 |    |
-|           |*p*<sup>2</sup>*N*|2*pqN*        |*q*<sup>2</sup>*N*|*N* |
+|-----------|:----------------:|:--------------:|:----------------:|:---:|
+|Observeret |*N*<sub>11</sub>  |*N*<sub>12</sub>|*N*<sub>22</sub>  |*N*  |
+|Forventet  |*E*<sub>11</sub>  |*E*<sub>12</sub>|*E*<sub>22</sub>  |*N*  |
+|           |=                 |=               |=                 |     |
+|           |*p*<sup>2</sup>*N*|2*pqN*          |*q*<sup>2</sup>*N*|*N*  |
 
 </br>
 
@@ -110,9 +110,9 @@ Et simpelt eksempel kan tjene som illustration: Antag, at begge homozygoter er s
 
 </br>
 
-| *A*<sub>1</sub>*A*<sub>1</sub> |*A*<sub>1</sub>*A*<sub>2</sub> |*A*<sub>2</sub>*A*<sub>2</sub> |
-| :------------------: |:----------------------------: |:----------------------------: |
-| 1/4                            |1/2                            |1/4                            |
+| *A*<sub>1</sub>*A*<sub>1</sub> |*A*<sub>1</sub>*A*<sub>2</sub>|*A*<sub>2</sub>*A*<sub>2</sub>|
+| :-----------------------------:|:----------------------------:|:----------------------------:|
+| 1/4                            |1/2                           |1/4                           |
 
 </br>
 
@@ -212,14 +212,13 @@ populationens sammensætning beskrives på følgende måde
 
 </br>
 
-
-| Genotype |*DD             Dd*|*dd* |Sum|
-| :-------              |:---------: |:------:|:---:|
-|                  |└───┬───┘|        |        |
-|Fænotype  |        *D-*             |  *dd*      | Sum       |
-| Observeret       |  *N*<sub>*D*-</sub> |*N*<sub>*dd*</sub>                | *N*   |
-| HW-Frekvens   |*p*<sup>2</sup>+2*pq*                     |    *q*<sup>2</sup>*N*    |     *N* |
-| HW-Forventet  |(*p*<sup>2</sup>+2*pq*)*N*   |    *q*<sup>2</sup>*N*    | *N* |
+|Genotype     |*DD             Dd*        |  *dd*                 |Sum  |
+|:------------|:-------------------------:|:---------------------:|:---:|
+|             |      └───┬───┘            |                       |     |
+|Fænotype     |        *D-*               |  *dd*                 |Sum  |
+|Observeret   |  *N*<sub>*D*-</sub>       |*N*<sub>*dd*</sub>     | *N* |
+|HW-Frekvens  |*p*<sup>2</sup>+2*pq*      |    *q*<sup>2</sup>    | *N* |
+|HW-Forventet |(*p*<sup>2</sup>+2*pq*)*N* |    *q*<sup>2</sup>*N* | *N* |
 
 </br>
 
