@@ -215,9 +215,9 @@ populationens sammensætning beskrives på følgende måde
 |Genotype     |*DD             Dd*        |  *dd*                 |Sum  |
 |:------------|:-------------------------:|:---------------------:|:---:|
 |             |      └───┬───┘            |                       |     |
-|Fænotype     |        *D-*               |  *dd*                 |Sum  |
+|Fænotype     |        *D-*               |  *dd*                 |     |
 |Observeret   |  *N*<sub>*D*-</sub>       |*N*<sub>*dd*</sub>     | *N* |
-|HW-Frekvens  |*p*<sup>2</sup>+2*pq*      |    *q*<sup>2</sup>    | *N* |
+|HW-Frekvens  |*p*<sup>2</sup>+2*pq*      |    *q*<sup>2</sup>    | 1   |
 |HW-Forventet |(*p*<sup>2</sup>+2*pq*)*N* |    *q*<sup>2</sup>*N* | *N* |
 
 </br>
@@ -486,15 +486,11 @@ De forventede antal under antagelse af Hardy-Weinberg proportioner beregnes på 
 
 Bemærk det store overskud af homozygoter – som er lige store for hver af homozygoterne. Overensstemmelse med Hardy-Weinberg proportioner testes ved hjælp af en χ<sup>2</sup> test, hvor teststørrelsen findes som
 
-$$
- \chi^2 =\sum_{i=1}^3\frac{(O_i-E_i)^2}{E_i}
-$$
+$ \chi^2 =\sum_{i=1}^3\frac{(O_i-E_i)^2}{E_i}$
 
 som for frøplanternes tilfælde bliver
  
-$$
-\chi^2 =\frac{(79-70,63)^2}{70,63}+\frac{(43-59,74)^2}{59,74}+\frac{21-12,63}{12,63}=12,23
-$$
+$\chi^2 =\frac{(79-70,63)^2}{70,63}+\frac{(43-59,74)^2}{59,74}+\frac{21-12,63}{12,63}=12,23$
  
 Teststørrelsen er derfor signifikant på 5% niveauet, når den overstiger 3,84. Dette er tilfældet for frøplanterne, så vi forkaster hypotesen om Hardy-Weinberg proportioner for dem.
 
@@ -608,12 +604,12 @@ b\) Bestem frekvensen af de to observerede fænotyper hos hannerne.
 
 *f*(♂, mørk) = 74 / 112 = 0,661
 
-*f*(♂, lys)     = 38 / 112 = 0,339
+*f*(♂, lys)  = 38 / 112 = 0,339
 
 </p>
 </details>
 
-c)  Sammenlign frekvensen af de to alleler hos hunnerne med frekvensen    af de to fænotyper hos hannerne. (Kvalitativt – en test skal ikke     laves.) Giv en forklaring på, hvordan farverne nedarves hos katte.
+c)  Sammenlign frekvensen af de to alleler hos hunnerne med frekvensen af de to fænotyper hos hannerne. (Kvalitativt – en test skal ikke laves.) Giv en forklaring på, hvordan farverne nedarves hos katte.
 
 <details><summary>Klik for at se svaret.</summary>
 <p>
@@ -745,8 +741,6 @@ $D = f_{AB} -p_A\times p_B=0,5-0,5\times0,5=0,5$
 
 </p>
 </details>
-
-
  
 [^1]: Marshall & Allard (1970) Maintenance of isozyme polymorphism in
     natural populations of *Avena barbata*. *Genetics* 66: 393–399.
