@@ -634,7 +634,7 @@ Da fænotypen Middel slet ikke observeres hos hannerne, tyder det på, at genet 
 
 **Opgave 5 (for nørder)**
  <figure>
-  <img  align="right" src="HWJaera.jpg" width=130 title="*Jaera*">
+  <img  align="right" src="HWJaera.png" width=130 title="*Jaera*">
  </figure>
 
 På danske strande med forekomst af sten, på høfder og i algebevoksninger
