@@ -101,19 +101,16 @@ foretages på følgende måde (Det er en god idé både at bestemme *p* og *q*; 
 
 </br>
 
-Allelfrekvenserne bestemmes som beskrevet foroven. Når man angiver allelfrekvenser, bør man benytte et antal decimaler, der svarer til stikprøvens størrelse. For eksempel, hvis *N* \< 50 har det ingen mening at angive allelfrekvensen med mere end to decimaler. Det er dog vigtigt at beregne de forventede genotypefordelinger med værdier, der ikke afrundes.
+Allelfrekvenserne bestemmes som beskrevet foroven. Når man angiver allelfrekvenser, bør man benytte et antal decimaler, der svarer til stikprøvens størrelse. For eksempel, hvis *N* < 50 har det ingen mening at angive allelfrekvensen med mere end to decimaler. Det er dog vigtigt at beregne de forventede genotypefordelinger med værdier, der ikke afrundes.
 
 Den observerede og den forventede fordeling kan sammenlignes med et “Goodness of fit”-test. Teststørrelsen
-$$
-\scriptsize
+
+$
 \chi ^2=\sum_i \frac{(O_i-E_i)^2}{E_i}
-$$
-er tilnærmelsesvis χ<sup>2</sup>-fordelt med én enkelt frihedsgrad. Antallet af frihedsgrader fremkommer på følgende måde. Antallet af
-frihedsgrader for at beskrive den observerede genotypefordeling er 2. Vi kender jo summen, og når vi kender de to, kan den tredje jo nemt
-udledes. Antallet af frihedsgrader for at beskrive allelernes frekvens er én. Kender vi frekvensen af én allel, kan den andens frekvens jo bestemmes som dens difference fra 1. Testens frihedsgrader er differencen i antallet af frihedsgrader for at beskrive henholdsvis genotypefordeling og allelfordeling, hvilket er 2 – 1 = 1. Er
-teststørrelsen større end 3,84 forkaster vi hypotesen på 5% niveauet; dvs., den genetiske variation i det betragtede locus anses for ikke at
-være i overensstemmelse med Hardy-Weinberg proportioner. Hvis vi accepterer hypotesen, kan vi kun udtale at genotypefordelinger stemmer
-overens med Hardy-Weinberg fordelingen; vi kan ikke sige noget om, hvorvidt der er Hardy-Weinberg ligevægt i populationen!!!
+$
+
+er tilnærmelsesvis χ<sup>2</sup>-fordelt med én enkelt frihedsgrad. Antallet af frihedsgrader fremkommer på følgende måde. Antallet af frihedsgrader for at beskrive den observerede genotypefordeling er 2. Vi kender jo summen, og når vi kender de to, kan den tredje jo nemt udledes. Antallet af frihedsgrader for at beskrive allelernes frekvens er én. Kender vi frekvensen af én allel, kan den andens frekvens jo bestemmes som dens difference fra 1. Testens frihedsgrader er differencen i antallet af frihedsgrader for at beskrive henholdsvis genotypefordeling og allelfordeling, hvilket er 2 – 1 = 1. Er teststørrelsen større end 3,84 forkaster vi hypotesen på 5% niveauet; dvs., den genetiske variation i det betragtede locus anses for ikke at
+være i overensstemmelse med Hardy-Weinberg proportioner. Hvis vi accepterer hypotesen, kan vi kun udtale at genotypefordelinger stemmer overens med Hardy-Weinberg fordelingen; vi kan ikke sige noget om, hvorvidt der er Hardy-Weinberg ligevægt i populationen!!!
 
 Et simpelt eksempel kan tjene som illustration: Antag, at begge homozygoter er sterile, så kun heterozygoter får afkom. Hvis vi betragter populationen af voksne, har vi en perfekt overensstemmelse til de forventede Hardy-Weinberg-proportioner, nemlig
 
@@ -155,12 +152,9 @@ heterozygoter, som i eksemplet forneden.) Der gælder så, at
  </figure>
 
 *Eksempel:*
-Marshall og Allard (1970)[^1] undersøgte genetisk variation i et locus
-hos den vilde hvede *Avena barbata* i Californien. De fandt den følgende genotypefordeling for dette locus
-
+Marshall og Allard (1970)[^1] undersøgte genetisk variation i et locus hos den vilde hvede *Avena barbata* i Californien. De fandt den følgende genotypefordeling for dette locus
 
 </br>
-
 
 | Genotype  | *A*<sub>1</sub>*A*<sub>1</sub> | *A*<sub>1</sub>*A*<sub>2</sub>| *A*<sub>2</sub>*A*<sub>2</sub>|Sum|
 |-----------|:---:|:---:|:----:|:---:|
@@ -242,10 +236,7 @@ recessive allel og frekvensen af den recessive homozygot. Da vi har, at
 
 får vi dermed, at
 
-$
-\scriptsize
-q=\sqrt{N_{dd}/N}
-$
+$$ q=\sqrt{N_{dd}/N}$$
 
 og
 
@@ -379,9 +370,7 @@ den samme population.
 </p>
 </details>
 
-
 **Opgave 2**
-
 Rhesus-systemet er af stor betydning ved blodtransfusioner og kan
 forvolde komplikationer ved graviditeter, hvor kvinde og foster har
 uforenelige blodtyper. Der findes to fænotyper i Rhesus-systemet:
@@ -389,7 +378,6 @@ Rhesus-positiv (Rh+) og Rhesus-negativ (Rh−). Den følgende tabel viser
 udspaltninger i Rhesus-systemet hos de tre mulige forældrekombinationer:
 
 </br>
-
 
 |                     |                | Børn |     |     |
 |---------------------|----------------|------|-----|-----|
@@ -411,20 +399,16 @@ udspaltninger i Rhesus-systemet hos de tre mulige forældrekombinationer:
 <p>
 
 Blandt de 375 børn har vi 302 Rh+ og 73Rh− individer. Under antagelse af Hardy-Weinberg-proportioner kan vi beregne frekvensen af den recessive allel. Det forventede antal rhrh individer, N(Rh−), er givet ved
-$$
-\scriptsize
-N(Rh-) = Nq^2
-$$
+
+$N(Rh-) = Nq^2$
+ 
 så vi kan beregne allelfrekvensen som
-$$
-\scriptsize
-q = \sqrt{N(Rh-)/N}
-$$ 
+
+$q = \sqrt{N(Rh-)/N}$ 
+ 
 Frekvensen af Rh-allelen findes som
- $$
-\scriptsize
-q = \sqrt{73/375}=0,441
-$$
+
+$q = \sqrt{73/375}=0,441$
 
 Vi har ingen mulighed for at teste for Hardy-Weinberg-proportioner blandt børnene, da vi beskriver deres fænotypefordeling med en enkelt frihedsgrad; summen af de to fænotyper er jo givet. Ligeledes beskrives allelfrekvensen med en enkelt frihedsgrad, da deres sum er 1. Der er ingen frihedsgrad tilovers til testen. De observerede og forventede er lig med hinanden. 
 
