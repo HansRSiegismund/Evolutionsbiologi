@@ -158,10 +158,10 @@ Marshall og Allard (1970)[^1] undersøgte genetisk variation i et locus hos den 
 </br>
 
 Hvor de forventede genotypefrekvenser er beregnet ud fra
-Hardy-Weinberg-proportioner med frekvenserne for allel *A*1 og *A*2 på
+Hardy-Weinberg-proportioner med frekvenserne for allel *A*<sub>1</sub> og *A*<sub>2</sub> på
 henholdsvis *p* = 0.79 og *q* = 0.21. Indavlskoefficienten beregnes som
 
-*F* = (28,55 *–* 6)/ 28,55 = 0,79.
+*F* = (28,55 – 6)/ 28,55 = 0,79.
 
 Vi ser en stor afvigelse fra Hardy-Weinberg-proportioner med et stort
 overskud af homozygoter (*F* \> 0). Årsagen hertil er, at *Avena
@@ -175,7 +175,7 @@ Det er let at udvide Hardy-Weinberg-loven til situationer med flere
 alleler i et locus. Findes der for eksempel tre alleler i et autosomalt
 locus, er Hardy-Weinberg-proportionerne givet i tabellen længere nede.
 Det ses, at antallet af genotyper som funktion af antallet af alleler
-*n* er givet ved *n*(*n* + 1)*/*2. Antallet af mulige genotyper vokser
+*n* er givet ved *n*(*n* + 1)/2. Antallet af mulige genotyper vokser
 hurtigt, og det er derfor lidet sandsynligt at alle genotyper, som
 findes i populationen, repræsenteres i en given stikprøve. Bestemmelsen
 af allelfrekvenser foretages analogt til det tidligere viste eksempel
@@ -322,13 +322,13 @@ den samme population.
 <details><summary>Klik for at se svaret (Tænk lidt før du gør det)</summary>
 <p>
 
-| Locus    ||
-|:-------- |:-------:|
-|I         |1,0|
-|II        |0,9|
-|III       |0,5|
-|IV        |0,0| 
-|V         |0,5 
+| Locus    |     |
+|:-------- |:---:|
+|I         |1,0  |
+|II        |0,9  |
+|III       |0,5  |
+|IV        |0,0  | 
+|V         |0,5  |
 </p>
 </details>
 
