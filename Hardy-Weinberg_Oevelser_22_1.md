@@ -303,13 +303,13 @@ Betragt de følgende genotypefordelinger i fem autosomale loci (I-V).
 
 </br>
 
-| Locus    |11 |12 |22 |Sum|
-| :-------- |--:|--:|--:|--:|
-|I |100|0  |0  |100|
-|II |81 |18 |1  |100|
-|III |0  |100|0  |100|
-|IV|0  |0  |100|100|
-|V |50 |0  |50 |100|
+|Locus |11 |12 |22 |Sum|
+|:-----|--:|--:|--:|--:|
+|I     |100|0  |0  |100|
+|II    |81 |18 |1  |100|
+|III   |0  |100|0  |100|
+|IV    |0  |0  |100|100|
+|V     |50 |0  |50 |100|
  
 </br>
 
@@ -486,11 +486,11 @@ De forventede antal under antagelse af Hardy-Weinberg proportioner beregnes på 
 
 Bemærk det store overskud af homozygoter – som er lige store for hver af homozygoterne. Overensstemmelse med Hardy-Weinberg proportioner testes ved hjælp af en χ<sup>2</sup> test, hvor teststørrelsen findes som
 
-$\chi^2 =\sum_{i=1}^3\frac{(O_i-E_i)^2}{E_i}$
+$$\chi^2 =\sum_{i=1}^3\frac{(O_i-E_i)^2}{E_i}$$
 
 som for frøplanternes tilfælde bliver
  
-$\chi^2 =\frac{(79-70,63)^2}{70,63}+\frac{(43-59,74)^2}{59,74}+\frac{21-12,63}{12,63}=12,23$
+$$\chi^2 =\frac{(79-70,63)^2}{70,63}+\frac{(43-59,74)^2}{59,74}+\frac{21-12,63}{12,63}=12,23$$
  
 Teststørrelsen er derfor signifikant på 5% niveauet, når den overstiger 3,84. Dette er tilfældet for frøplanterne, så vi forkaster hypotesen om Hardy-Weinberg proportioner for dem.
 
