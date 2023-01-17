@@ -3,10 +3,11 @@
 # Hardy-Weinberg loven samt variation i to loci
 <font size="3"> 
 
-Hans R. Siegismund
+## Hans R. Siegismund
+
 ## Teoretisk baggrund
 
-**Hardy-Weinberg loven**
+### Hardy-Weinberg loven
 
 Betragt en diploid population, hvor vi ser på variation i et autosomalt
 locus med to allele gener *A*<sub>1</sub> og *A*<sub>2</sub>. Vi tager en stikprøve på *N* individer. Disse *N* fordeler sig på de tre genotyper som følger
@@ -80,7 +81,7 @@ genotypeligevægt med den nye allel-frekvens:
 
 </br>
 
-**Test af Hardy-Weinberg proportioner**
+#### Test af Hardy-Weinberg proportioner
 
 I en stikprøve på *N* individer er den genetiske variation i et autosomalt locus med to allele gener *A*<sub>1</sub> og *A*<sub>2</sub>
 blevet bestemt. En test for overensstemmelse af de observerede genotypefordelinger med de forventede Hardy-Weinberg proportioner kan
