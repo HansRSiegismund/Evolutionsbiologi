@@ -218,7 +218,7 @@ sammenligninger og sekvensernes længde.  For eksempel, hvis man har fire sekven
 så beregnes nukleotiddiversiteten som 
 
 
-$$\pi = \frac{(10+15+20+18+17+27)}{100\times6}=107/600=0,018 $$
+$$\pi = \frac{(10+15+20+18+17+27)}{1000\times6}=107/6000=0,018 $$
 
  <figure>
   <img  align="right" src="IntroNeandertal.png" width=250 title="Neandertal">
