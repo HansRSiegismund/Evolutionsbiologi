@@ -258,11 +258,7 @@ basepar.
     
 <details><summary>Klik for at se svaret.</summary>
 <p>
-$$x+y=\pi $$
-aaa
  $$\pi = \frac{10 + 10 + 6 + 0 + 10 + 10 + 46 + 40 + 44 + 46 + 10 + 8 + 10 + 10 + 46}                                     {15\times16.565}=0,012$$
-
-
 </p>
 </details>
 
@@ -302,15 +298,15 @@ frekvenser for allel *A*<sub>1</sub> i de 10 populationer:
 <details><summary>Klik for at se svaret.</summary>
 <p>
 
-a
+ Nej. Ved genetisk drift ville allelfrekvenserne fordele sig tilfældigt over hele spektret fra 0 til 1. Se figuren nedenfor. I eksperimentet har alle 10 populationer en allelfrekvens under 0,5, hvilket er meget usandsynligt (0,5<sup>10</sup> = 0,000977).
+
 </p>
 </details>
 
 2)  Hvilken anden evolutionær kraft har også virket under dette forsøg?
 <details><summary>Klik for at se svaret.</summary>
 <p>
-
-a
+ Naturlig selektion, der har øget frekvensen af allel *A*<sub>2</sub>.
 </p>
 </details>
 
@@ -340,10 +336,10 @@ organisme, *A* og *B*. De fødes, overlever og forplanter sig en enkelt
 gang og dør. Sandsynligheden for at overleve til den reproduktive alder
 og antal afkom er givet i nedenstående tabel
 
-|Klon                   |*A*    |  *B*|
-|----                   |---    |  ---|
-|Overlevelse       |   0,1  | 0,2  |
-|Antal afkom      |  120   | 40   |
+|Klon                   |*A*     |  *B*|
+|----                   |:------:|:---:|
+|Overlevelse            |   0,1  | 0,2 |
+|Antal afkom            |  120   | 40  |
 
 Den samlede ***absolutte fitness*** kan beregnes som sandsynligheden for
 at overleve multipliceret med antallet af afkom, som et individ får.
