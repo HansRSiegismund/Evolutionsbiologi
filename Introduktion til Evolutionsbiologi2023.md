@@ -258,8 +258,9 @@ basepar.
     
 <details><summary>Klik for at se svaret.</summary>
 <p>
-
-$$
+$$x+y=\pi $$
+aaa
+ $$
  \begin{align}\pi &= \frac{10 + 10 + 6 + 0 + 10 + 10 + 46 + 40 + 44 + 46 + 10 + 8 + 10 + 10 + 46}                                     {15\times16.565}\\
  &=0,012\\
 \end{align} 
