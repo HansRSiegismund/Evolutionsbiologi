@@ -110,7 +110,7 @@ Mitokondrier findes i langt flere kopier end det nukleare genom i hver celle og 
 ### Opgave 2 (Mutationer i enkelte gener)
 
 Lægen Mørch fandt blandt 94.000 fødsler i Danmark 10 tilfælde af
-chondrodystro­fe dværge. Denne form for dværgvækst er dominant betinget: Personer med normal vækst har genotypen *dd*, medens chondrodystro­fe har genotypen *Dd*. Det antages, at individer med genotypen *DD* ikke observeres, fordi genotypen er letal. 
+chondrodystrofe dværge. Denne form for dværgvækst er dominant betinget: Personer med normal vækst har genotypen *dd*, medens chondrodystrofe har genotypen *Dd*. Det antages, at individer med genotypen *DD* ikke observeres, fordi genotypen er letal. 
 Der foreligger yderligere oplyst, at 3 af de 10 fødte dværge havde en
 chondrodystrof forælder, mens 7 havde normale forældre; det vil sige, at
 der optræder 7 nye mutationer i populationen.
@@ -217,15 +217,15 @@ sammenligninger og sekvensernes længde.  For eksempel, hvis man har fire sekven
 
 |                     |[1] | [2] | [3] |[4]   |
 |-------------------- |--- |---  |---- |------|
-|[1] Sekvens 1	      | -  |     |     |      |
+|[1] Sekvens 1	       | -  |     |     |      |
 |[2] Sekvens 2        |10  | -   |     |      |
-|[3] Sekvens 3	      |15  | 20  | -   |      |
-|[4] Sekvens 4	      |18  | 17  |27   | -    |
+|[3] Sekvens 3	       |15  | 20  | -   |      |
+|[4] Sekvens 4	       |18  | 17  |27   | -    |
 
 så beregnes nukleotiddiversiteten som 
 
 
-$$\scriptsize \pi = \frac{(10+15+20+18+17+27)}{100\times6}=107/600=0,018 $$
+$$\pi = \frac{(10+15+20+18+17+27)}{100\times6}=107/600=0,018 $$
 
 
 
