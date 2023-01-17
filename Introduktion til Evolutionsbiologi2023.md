@@ -227,8 +227,6 @@ så beregnes nukleotiddiversiteten som
 
 $$\pi = \frac{(10+15+20+18+17+27)}{100\times6}=107/600=0,018 $$
 
-
-
  <figure>
   <img  align="right" src="IntroNeandertal.png" width=250 title="Neandertal">
  </figure>
@@ -262,8 +260,8 @@ basepar.
 <p>
 
 $$
- \begin{align}\scriptsize \pi &= \frac{10 + 10 + 6 + 0 + 10 + 10 + 46 + 40 + 44 + 46 + 10 + 8 + 10 + 10 + 46}{15\times16.565}\\
- &=0,012
+ \begin{align}\pi &= \frac{10 + 10 + 6 + 0 + 10 + 10 + 46 + 40 + 44 + 46 + 10 + 8 + 10 + 10 + 46}                                     {15\times16.565}\\
+ &=0,012\\
 \end{align} 
 $$
 
@@ -278,8 +276,7 @@ være 0,0037.
     mennesket og Neandertaleren være?
 <details><summary>Klik for at se svaret.</summary>
 <p>
-
-a
+Neandertaleren har formentlig haft en lavere populationsstørrelse end mennesket. Her spiller genetisk drift en større rolle og fjerner mere variation i hver generation (se den følgende opgave), så nukleotiddiversiteten bliver lavere.
 </p>
 </details>
 
