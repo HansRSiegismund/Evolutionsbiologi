@@ -398,7 +398,7 @@ og Atlanterhavet.
     tager geografien i betragtning?
 <details><summary>Klik for at se svaret.</summary>
 <p>
-De består af seks artspar, der hver især har en slægtning på den atlantiske og den pacifiske side af Panama landtangen
+De består af seks artspar, der hver især har den nærmeste slægtning på den atlantiske og den pacifiske side af Panama landtangen
 </p>
 </details>
 
