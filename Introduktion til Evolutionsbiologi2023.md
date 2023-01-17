@@ -343,12 +343,12 @@ at overleve multipliceret med antallet af afkom, som et individ får.
 1)  Beregn de to kloners absolutte fitness.
 <details><summary>Klik for at se svaret.</summary>
 <p>
+ 
 |Klon	          | 		A		        |	B          |
 |---------------|:------------:|:----------:|
 |Absolut fitness|0,1 × 120 = 12|0,2 × 40 = 8|
 |Relativ fitness|12/12 = 1		   |8/12 = 2/3  |
 
-a
 </p>
 </details>
 
