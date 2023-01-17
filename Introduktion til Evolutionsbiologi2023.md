@@ -282,8 +282,6 @@ Genetisk drift opstår på grund af populationers endelige størrelse. Som nævn
   <img  align="center" src="IntroDrift.png" width=500 title="Drift">
  </figure>
 
-
-
 ### Opgave 6
 En genetiker starter et forsøg med *Drosophila melanogaster*, hvor han
 benytter 10 populationer, der hver holdes på en konstant størrelse på 8
@@ -297,16 +295,14 @@ frekvenser for allel *A*<sub>1</sub> i de 10 populationer:
 1)  Kan denne fordeling af allelfrekvensen forklares med genetisk drift?
 <details><summary>Klik for at se svaret.</summary>
 <p>
-
- Nej. Ved genetisk drift ville allelfrekvenserne fordele sig tilfældigt over hele spektret fra 0 til 1. Se figuren nedenfor. I eksperimentet har alle 10 populationer en allelfrekvens under 0,5, hvilket er meget usandsynligt (0,5<sup>10</sup> = 0,000977).
-
+Nej. Ved genetisk drift ville allelfrekvenserne fordele sig tilfældigt over hele spektret fra 0 til 1. Se figuren nedenfor. I eksperimentet har alle 10 populationer en allelfrekvens under 0,5, hvilket er meget usandsynligt (0,5<sup>10</sup> = 0,000977).
 </p>
 </details>
 
 2)  Hvilken anden evolutionær kraft har også virket under dette forsøg?
 <details><summary>Klik for at se svaret.</summary>
 <p>
- Naturlig selektion, der har øget frekvensen af allel *A*<sub>2</sub>.
+ Naturlig selektion, der har øget frekvensen af allel _A_<sub>2</sub>.
 </p>
 </details>
 
@@ -347,6 +343,10 @@ at overleve multipliceret med antallet af afkom, som et individ får.
 1)  Beregn de to kloners absolutte fitness.
 <details><summary>Klik for at se svaret.</summary>
 <p>
+|Klon	          | 		A		        |	B          |
+|---------------|:------------:|:----------:|
+|Absolut fitness|0,1 × 120 = 12|0,2 × 40 = 8|
+|Relativ fitness|12/12 = 1		   |8/12 = 2/3  |
 
 a
 </p>
