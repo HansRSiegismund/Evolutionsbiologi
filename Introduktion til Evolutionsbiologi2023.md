@@ -347,7 +347,6 @@ at overleve multipliceret med antallet af afkom, som et individ får.
 |Klon	          | 		A		        |	B          |
 |---------------|:------------:|:----------:|
 |Absolut fitness|0,1 × 120 = 12|0,2 × 40 = 8|
-|Relativ fitness|12/12 = 1		   |8/12 = 2/3  |
 
 </p>
 </details>
@@ -357,7 +356,11 @@ at overleve multipliceret med antallet af afkom, som et individ får.
 <details><summary>Klik for at se svaret.</summary>
 <p>
 
-a
+|Klon	          | 		A		        |	B          |
+|---------------|:------------:|:----------:|
+|Absolut fitness|0,1 × 120 = 12|0,2 × 40 = 8|
+|Relativ fitness|12/12 = 1		   |8/12 = 2/3  |
+
 </p>
 </details>
 
@@ -365,8 +368,7 @@ a
     mange af hver klon i generation 0?
 <details><summary>Klik for at se svaret.</summary>
 <p>
-
-a
+Klon A vinder.
 </p>
 </details>
 
@@ -382,7 +384,7 @@ deres genetiske integritet. For eksempel, rødspætte (*Pleuronecta
 platessa*) og skrubbe (*Platichthys flesus*) hybridiserer jævnligt, og
 hybriden kaldes for en “leps”.
 
-### Opgave 9
+### Opgave 8
 
 
  <figure>
@@ -403,16 +405,14 @@ og Atlanterhavet.
     tager geografien i betragtning?
 <details><summary>Klik for at se svaret.</summary>
 <p>
-
-a
+De består af seks artspar, der hver især har en slægtning på den atlantiske og den pacifiske side af Panama landtangen
 </p>
 </details>
 
 2)  Hvordan kan dannelsen af de seks artspar forklares?
 <details><summary>Klik for at se svaret.</summary>
 <p>
-
-a
+Før Panama landtangen er blevet dannet, fandtes der seks arter i dette område. Efter landtangen er blevet dannet, er de seks par divergeret fra hinanden på grund af genetisk drift og naturlig selektion i de to områder.
 </p>
 </details>
 
