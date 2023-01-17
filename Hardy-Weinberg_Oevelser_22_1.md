@@ -124,7 +124,7 @@ perfekt overensstemmelse med Hardy-Weinberg-frekvenser i en population.
 
 </br>
 
-**Afvigelser fra Hardy-Weinberg proportioner**
+#### Afvigelser fra Hardy-Weinberg proportioner
 
 Vi kan karakterisere afvigleser fra Hardy-Weinberg proportioner ved hjælp af indavlskoefficienten *F* (uddybes senere i kurset). Den kan defineres som
 
@@ -170,7 +170,7 @@ barbata* hovedsageligt forplanter sig ved selvbestøvning.
 
 </br>
 
-**Hardy-Weinberg proportioner med flere alleler**
+#### Hardy-Weinberg proportioner med flere alleler
 
 Det er let at udvide Hardy-Weinberg-loven til situationer med flere
 alleler i et locus. Findes der for eksempel tre alleler i et autosomalt
@@ -197,7 +197,7 @@ tre alleler er givet ved
 
 </br>
 
-**Variation i loci med dominante alleler**
+#### Variation i loci med dominante alleler
 
 Bestemmelsen af allelfrekvenser i en population er forholdsvis enkel for
 codominante alleler, hvor vi for hvert individ kan observere, hvilke
@@ -244,7 +244,7 @@ Hardy-Weinberg-proportioner, da fænotypefordelingen beskrives med én enkelt fr
 
 </br>
 
-**Variation i kønsbundne loci**
+#### Variation i kønsbundne loci
 
 Hardy-Weinberg loven blev udledt for variation i et autosomalt locus. Kønsbundne loci opfører sig lidt anderledes. Vi vil nu se på et simpelt system, hvor kønnet bestemmes af to forskellige kønskromosomer, *X* og *Y*, som det blandt andet kendes fra pattedyr og hos få særkønnede planter som humle og hamp. Her hører bærere af to *X*-kromosomer til det homogametiske køn (hunner), medens bærere af et *X*- og et *Y*-kromosom tilhører det heterogametiske køn (hanner).
 
@@ -298,7 +298,7 @@ Disse øvelser har deres fokus på
 - at teste for afvigelser fra Hardy-Weinberg frekvenser
 - at kvantificere afvigelser fra Hardy-Weinberg frekvenser ved hjælp af   indavlskoefficienten *F*
 
-**Opgave 1**
+### Opgave 1
 
 Betragt de følgende genotypefordelinger i fem autosomale loci (I-V).
 
@@ -361,7 +361,7 @@ den samme population.
 </p>
 </details>
 
-**Opgave 2**
+### Opgave 2
 Rhesus-systemet er af stor betydning ved blodtransfusioner og kan
 forvolde komplikationer ved graviditeter, hvor kvinde og foster har
 uforenelige blodtyper. Der findes to fænotyper i Rhesus-systemet:
@@ -424,7 +424,7 @@ Selektionen opstår, når Rhesus-negative kvinder får Rhesus-positive børn. Mo
 
 </br>
 
-**Opgave 3**
+### Opgave 3
  <figure>
   <img  align="right" src="HWSilene.png" width=150 title="*Silene*">
  </figure>
@@ -557,7 +557,7 @@ Fra frøplantestadiet til voksenstadiet bliver alle individer, der produceret ve
 
 </br>
 
-**Opgave 4**
+### Opgave 4
 
 En stikprøve af katte i Singapore havde følgende fordeling af pelsfarven:
 
@@ -628,7 +628,7 @@ Da fænotypen Middel slet ikke observeres hos hannerne, tyder det på, at genet 
 
 </br>
 
-**Opgave 5 (for nørder)**
+### Opgave 5 (for nørder)
  <figure>
   <img  align="right" src="HWJaera.jpg" width=150 title="*Jaera*">
  </figure>
@@ -690,7 +690,7 @@ Disse opgaver har deres fokus på
 
 - at undersøge populationsstrukturens effekt på dannelse af   koblingsuligevægt
 
-**Opgave 6**
+### Opgave 6
 
 Betragt en population, hvor der variation i to loci. Frekvensen af allel
 *A* i locus *A* er 0.7. Frekvensen af allel *a* er 0.3. I det andet
@@ -714,7 +714,7 @@ a)  Hvad er frekvensen af de fire mulige haplotyper?
 
 </br>
 
-**Opgave 7**
+### Opgave 7
 
 En uerfaren biolog har taget en stikprøve fra to populationer I og II. Population I er fikseret for allel *A* i locus *A*, d.v.s alle er *AA*. Den er ligeledes fikseret for allel *B* i locus *B*, d.v.s alle er *BB*. Den anden population (II) er fikseret for forskellige alleler i de to loci, d.v.s alle er *aa* og *bb*. Problemet er, at han ikke vidste, at der var to forskellige populationer. Han har taget det samme antal stikprøver i hver population.
 
