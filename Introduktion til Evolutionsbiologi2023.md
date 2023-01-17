@@ -54,15 +54,14 @@ illustrerer disse to eksempler.
 
 Mutationsrater for DNA sekvenser kan f. eks. bestemmes ved at sammenligne sekvenser fra to arter, der har udviklet sig uafhængigt af hinanden; antag at de blevet splittet op for *T* år siden. Med en mutationsrate *μ* (per site per år) forventer vi, at der i hver linje for en sekvens, der er *L* baser lang, vil være opstået *μTL* mutationer, se figuren til højre. Vi antager her, at der ikke forekommer to mutationer på samme position. Så er det totale antal nukleotidforskelle mellem de to sekvenser givet ved
 
-$\footnotesize D = 2 μTL$
+$ D = 2 μTL$
 
 hvor to-tallet skyldes, at der akkumuleres mutationer i hver af de to
 linjer. Kendes mutationsraten *μ* for et gen, kan man således ud fra antallet af
 nukleotidforskelle, *D*, mellem to sekvenser beregne hvor lang tid siden
 de splittedes ad,
 
-$\footnotesize T = D/(2L).$
-
+$T = D/(2L).$
 
  <figure>
   <img  align="right" src="IntroDenisova.png" width=225 title="Mutation">
@@ -201,12 +200,6 @@ Tabellen over udspaltningen i Rhesus-systemet viser tydeligt, at kombinationen R
 </details>
 
 ### Opgave 5 (Nukleotiddiversitet for DNA-sekvenser)
-
-This is an inline equation: $$V_{sphere} = \frac{4}{3}\pi r^3$$,<br>
-followed by a display style equation:
-
-$$V_{sphere} = \frac{4}{3}\pi r^3$$
-
 Nukleotiddiversiteten, *π*, er et simpelt mål for variationen på
 DNA-sekvens niveau. Den måles som det gennemsnitlige antal
 nukleotid-forskelle per base mellem DNA-sekvenser fra en population. Den
@@ -302,7 +295,7 @@ Nej. Ved genetisk drift ville allelfrekvenserne fordele sig tilfældigt over hel
 2)  Hvilken anden evolutionær kraft har også virket under dette forsøg?
 <details><summary>Klik for at se svaret.</summary>
 <p>
- Naturlig selektion, der har øget frekvensen af allel _A_<sub>2</sub>.
+ Naturlig selektion, der har øget frekvensen af allel A<sub>2</sub>.
 </p>
 </details>
 
