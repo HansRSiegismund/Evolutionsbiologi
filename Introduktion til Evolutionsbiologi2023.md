@@ -144,7 +144,7 @@ naturlige populationer. I en stor naturlig plantepopulation var forholdet imelle
 
 Intet som helst. Dominansforhold har ingen indflydelse på en given allels hyppighed i en population. 
 
-Mange er nok blevet vildledt af de kendte Mendelske 3:1 udspaltninger.
+Nogle er måske blevet vildledt af de kendte Mendelske 3:1 udspaltninger.
 
 </p>
 </details>
