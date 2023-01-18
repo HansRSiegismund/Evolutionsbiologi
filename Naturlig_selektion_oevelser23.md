@@ -58,15 +58,8 @@ $$
 x &=1\\
   & 3
 \end{align}
- 
 $$
 
-$$
-\footnotesize
-\begin{align}
-x &=1
-\end{align} 
-$$
   
 
 
