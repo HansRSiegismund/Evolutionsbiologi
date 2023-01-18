@@ -73,7 +73,7 @@ sammenfattes i den følgende tabel
 \hbox{Zygoter}\qquad          &  p^2         & 2pq        & q^2       &1 \\
 \hbox{Fitness}\qquad          &  W_{11}      & W_{12}     & W_{22}    & \\
 \hbox{Overlevende}\qquad      &  p^2W_{11}   & 2pq W_{12} & q^2W_{22} & \overline{W}\\
-\hbox{Frekvens}\qquad         &  p^2W_{11}/\overline{W}   & 2pq W_{12}/\overline{W} & q^2W_{22}/\overline{W} & \overline{W}\\
+\hbox{Frekvens}\qquad         &  p^2W_{11}/\overline{W}   & 2pq W_{12}/\overline{W} & q^2W_{22}/\overline{W} & 1\\
 \hbox{Næste generation}\qquad &  p'^2         & 2p'q'        & q'^2       &1 \\
 \end{array}
 \end{aligned}
