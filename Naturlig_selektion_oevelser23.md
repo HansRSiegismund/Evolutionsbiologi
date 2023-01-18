@@ -47,7 +47,6 @@ hyppighederne blandt de overlevende må vi dividere med summen af de
 overlevende,
 
 $$
-\footnotesize
  \overline{W} =p^2W_{11}+2pqW_{12}+q^2W_{12} 
 $$
 
@@ -55,10 +54,9 @@ der sigende betegnes som ***populationens gennemsnitlige fitness***. Man
 kan så finde næste generation frekvens for allel *A*<sub>1</sub> som
 
 $$
-\footnotesize
- \overline{W} 
 \begin{align}
-x &=1
+x &=1\\
+  & 3
 \end{align}
  
 $$
