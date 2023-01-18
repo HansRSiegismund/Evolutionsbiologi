@@ -27,7 +27,7 @@ være bedre tilpasset til miljøet end forældrene var det i generationen
 før
 
  <figure>
-  <img  align="right" src="SelDarwin.png" width=225 title="Mutation">
+  <img  align="right" src="SelDarwin.png" width=225 title="Darwin">
  </figure>
 
 Vi vil nu se på, hvorledes Darwin’s tre principper kan formuleres mere
@@ -55,41 +55,30 @@ kan så finde næste generation frekvens for allel *A*<sub>1</sub> som
 
 $$
 \begin{align}
-x &=1\\
-  & 3
+p' &=(p^2W_{11}+2pqW_{12}/2)/\overline{W}\\
+   &=(p^2W_{11}+pqW_{12})/\overline{W}
 \end{align}
 $$
 
-  
-
-
-
+  $\overline{W}$
 
 Frekvensen for allel *A*<sub>2</sub> bestemmes tilsvarende. Det hele kan
 sammenfattes i den følgende tabel
 
-*A*<sub>11</sub> *A*<sub>12</sub> *A*<sub>22</sub> Sum
-
-———————————————————————————
-
-Zygoter *p*<sup>2</sup> 2*pq q*<sup>2</sup> 1
-
-Fitness *W*<sub>11</sub> *W*<sub>12</sub> *W*<sub>22</sub>
-
-Overlevende *p*<sup>2</sup> *W*<sub>11</sub> 2*pq* *W*<sub>12</sub>
-*q*<sup>2</sup>*W*<sub>22</sub>
-<img src="media/image4.png" style="width:0.19375in;height:0.23403in" />
-
-Frekvens *p*<sup>2</sup> *W*<sub>11</sub>
-/<img src="media/image4.png" style="width:0.19375in;height:0.23403in" />
-2*pq* *W*<sub>12</sub> /
-<img src="media/image4.png" style="width:0.19375in;height:0.23403in" />
-*q*<sup>2</sup>*W*<sub>22</sub>
-/<img src="media/image4.png" style="width:0.19375in;height:0.23403in" />
-1
-
-Næste generation *p’*<sup>2</sup> 2*p’q’ q’*<sup>2</sup> 1
-
+ $$
+\begin{aligned}%[llcc]
+\begin{array}{lccc}
+                              & A_{11}      &  A_{12}     & A_{22} & \hbox{Sum}\\
+ \hline
+\hbox{Zygoter}\qquad          &  p^2         & 2pq        & q^2       &1 \\
+\hbox{Fitness}\qquad          &  W_{11}      & W_{12}     & W_{22}    & \\
+\hbox{Overlevende}\qquad      &  p^2W_{11}   & 2pq W_{12} & q^2W_{22} & \overline{W}\\
+\hbox{Frekvens}\qquad         &  p^2W_{11}/\overline{W}   & 2pq W_{12}/\overline{W} & q^2W_{22}/\overline{W} & \overline{W}\\
+\hbox{Næste generation}\qquad &  p'^2         & 2p'q'        & q'^2       &1 \\
+\end{array}
+\end{aligned}
+  $$
+  
 Vi kan nu gentage hele processen for at finde allelfrekvenserne i den
 næste generation. Det foregår på tilsvarende vis som angivet foroven.
 Man kan ikke finde en generel løsning på iterationsligningerne, hvor
@@ -100,52 +89,65 @@ Selv om man ikke kan finde en generel løsning, er det dog muligt at
 analysere selektionens virkning på polymorfien. Dette gøres ved at se på
 ændringen af allelfrekvensen. For allel *A*<sub>1</sub> kan denne
 ændring beregnes som
+  
+$$
+\begin{aligned}
+\begin{array}{rl}
+\Delta p & = p'-p\\
+         & = (p^2W_{11} +pq W_{12})/\overline{W}\\
+         & = pq[(p(W_{11} - W_{12})-q(W_{22} - W_{12})]/\overline{W}
+ \end{array}
+\end{aligned}
+$$
 
-<img src="media/image5.png" style="width:2.80625in;height:0.79028in" />
 
 (Efter nogle udregninger.) Vi ønsker at finde eventuelle ligevægte, hvor
 der må gælde at
 
-<img src="media/image6.png" style="width:2.71806in;height:0.47569in" />
+$$
+\begin{aligned}
+\begin{array}{rl}
+\Delta p & =  pq[(p(W_{11} - W_{12})-q(W_{22} - W_{12})]/\overline{W}\\
+         & = 0
+ \end{array}
+\end{aligned}
+$$
 
 Der findes tre mulige ***ligevægte***. To trivielle, hvor enten *p* = 0,
 eller hvor *q* = 0. Det vil sige, hvis det studerede locus er fikseret
 for enten den ene eller den anden allel. Den tredje mulige ligevægt
 eksisterer, hvis ligningen
 
-<img src="media/image7.png" style="width:2.14514in;height:0.23403in" />
+$$
+  p(W_{11} - W_{12})-q(W_{22} - W_{12}) =0
+ $$
 
 har en løsning med allelfrekvenserne i intervallet fra 0 til 1.
 Ligningen kan løses efter *p* (hvor vi husker, at *q* = 1 – *p*).
 
-<img src="media/image8.png" style="width:1.76597in;height:0.47569in" />*.*
+$$
+  p = \frac{W_{22} - W_{12}}
+            {W_{11} - W_{12} +W_{22} - W_{12}} 
+ $$
 
 Der findes to løsninger med allelfrekvenserne i intervallet mellem 0 og
 1, nemlig én hvis
 
-<img src="media/image9.png" style="width:0.66944in;height:0.23403in" />
-**og**
-<img src="media/image10.png" style="width:0.68542in;height:0.23403in" />*.*
+  $W_{22} > W_{12} \hbox{\quad og \quad} W_{22} > W_{12}$
 
 Det vil sige, at heterozygoten har mindre fitness end begge homozygoter.
 En anden mulighed er hvis
 
-<img src="media/image11.png" style="width:0.66111in;height:0.23403in" />
-**og**
-<img src="media/image12.png" style="width:0.66944in;height:0.23403in" />*.*
+  $W_{22} < W_{12} \hbox{\quad og \quad} W_{22} < W_{12}$
 
 Det vil sige, at heterozygoten har større fitness end begge homozygoter.
-Vi vender tilbage til disse løsninger senere.
-
-For et autosomalt locus med to alleler, hvorpå der virker
+Vi vender tilbage til disse løsninger senere.For et autosomalt locus med to alleler, hvorpå der virker
 overlevelsesselektion på genotyperne, findes der fire principielle
 muligheder for selektionens virkning.
 
-**1) Retningsselektion**
-<img src="media/image13.png" style="width:1.06458in;height:0.23403in" />med
-højst ét
-lighedstegn<img src="media/image14.png" style="width:1.57292in;height:1.19792in" />
-
+**1) Retningsselektion** 
+$W_{11}  \geq W_{12}  \geq W_{22} $ 
+med højst ét lighedstegn
 Der må højst være ét lighedstegn i relationen mellem de tre
 fitness-værdier, for ellers har alle tre genotyper de samme
 fitness-værdier, og så virker naturlig selektion ikke på dette locus. I
@@ -162,8 +164,8 @@ ligevægte*** for allel *A*<sub>1</sub>.
 <img src="media/image15.png" style="width:1.57292in;height:1.01042in" />
 
 **2) Retningsselektion**
-<img src="media/image16.png" style="width:1.06458in;height:0.23403in" />med
-højst ét lighedstegn
+$W_{11}  \le W_{12}  \le W_{22} $ 
+med højst ét lighedstegn
 
 Dette system er ækvivalent til det første, nu vil naturlig selektion øge
 frekvensen af allel *A*<sub>2</sub>. Der findes ***to*** ***ligevægte***
@@ -177,10 +179,7 @@ for allel *A*<sub>1</sub>
 1.<img src="media/image17.png" style="width:1.57292in;height:1.20833in" />
 
 **3) Underdominans**
-<img src="media/image9.png" style="width:0.66944in;height:0.23403in" />
-**og**
-<img src="media/image10.png" style="width:0.68542in;height:0.23403in" />
-
+$W_{11}  > W_{12} \hbox{\quad og \quad}  W_{22} > W_{12} $
 I dette tilfælde har heterozygoten en mindre fitness end begge
 homozygoter. Der er tale om ***underdominans***. Evolutionen i et locus
 med denne relation mellem genotypernes fitness forløber fundamentalt
@@ -193,26 +192,24 @@ for polymorfien.
 1: som er ***stabil***, dvs, hvis man ændrer frekvensen af allel
 *A*<sub>1</sub> lidt fra 1, vil den bevæge sig tilbage til 1
 
-<img src="media/image18.png" style="width:1.72569in;height:0.47569in" />som
-er en ***ustabil ligevægt***, dvs, hvis man ændrer frekvensen af allel
+  
+$\frac{W_{22} - W_{12}}{W_{11} - W_{12} +W_{22} - W_{12}}$: 
+som er en ***ustabil ligevægt***, dvs, hvis man ændrer frekvensen af allel
 *A*<sub>1</sub> lidt fra ligevægten, vil den bevæge sig bort fra den.
 
 I dette system vil vi ende op med en allelfrekvens af *A*<sub>1</sub> på
 enten 0 eller 1, afhængigt af, om der startes under eller over den
 ustabile ligevægt.
-
+   
 **4) Overdominans**
-<img src="media/image19.png" style="width:0.66111in;height:0.23403in" />
-**og**
-<img src="media/image20.png" style="width:0.66944in;height:0.23403in" /><img src="media/image21.png" style="width:1.57292in;height:0.96875in" />
-
+$W_{11}  < W_{12} \hbox{\quad og \quad}  W_{22} < W_{12} $
 I dette tilfælde har heterozygoten en større fitness end begge
 homozygoter. Der er tale om ***overdominans***. Vi har nu igen ***tre
 ligevægte*** for polymorfien, men i modsætning til underdominans har vi
 nu en ***stabil indre ligevægt***
 
-<img src="media/image18.png" style="width:1.72569in;height:0.47569in" />som
-er en ***stabil ligevægt***, dvs, hvis man ændrer frekvensen af allel
+$\frac{W_{22} - W_{12}}{W_{11} - W_{12} +W_{22} - W_{12}}$: 
+som er en ***stabil ligevægt***, dvs, hvis man ændrer frekvensen af allel
 *A*<sub>1</sub> lidt fra ligevægten, vil den bevæge sig tilbage til den.
 
 0: som er ***ustabil***, dvs, hvis man ændrer frekvensen af allel
