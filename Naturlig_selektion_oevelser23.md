@@ -274,12 +274,10 @@ $\overline{W} =p^2W_{11}+2pqW_{12}+q^2W_{12}$
 
 som funktion af allelfrekvensen, hvilket er gjort i figuren til højre.
 Når *p* = 0 er der udelukkende *A*<sub>22</sub> i populationen, som har
-en
-<img src="media/image24.png" style="width:0.19375in;height:0.23403in" />på
+en $\overline{W}$ på
 0,4, og når populationen er fikseret for *A*<sub>1</sub>, så er
-<img src="media/image24.png" style="width:0.19375in;height:0.23403in" />*=*
-0,6. Vi ser, at
-<img src="media/image24.png" style="width:0.19375in;height:0.23403in" />har
+$\overline{W} = 0,6$. Vi ser, at
+$\overline{W}  har
 sit maksimum i ligevægten 0,6. Dermed stemmer evolutionen i dette simple
 system fint overens med vores intuition for evolution gennem naturlig
 selektion. ***Naturlig selektion virker ved at øge den gennemsnitlige
