@@ -187,7 +187,7 @@ for allel *A*<sub>1</sub>
 **3) Underdominans**
 
  <figure>
-  <img  align="right" src="HWAvena.jpg" width=175 title="*Avena*">
+  <img  align="right" src="SelUnderD.png" width=175 title="SelUnderD">
  </figure>
   
   $W_{11}  > W_{12} \hbox{\quad og \quad}  W_{22} > W_{12} $
@@ -216,7 +216,7 @@ ustabile ligevægt.
 $W_{11}  < W_{12} \hbox{\quad og \quad}  W_{22} < W_{12} $
 
  <figure>
-  <img  align="right" src="HWAvena.jpg" width=175 title="*Avena*">
+  <img  align="right" src="SelOverD.png" width=175 title="Overd">
  </figure>
   
   I dette tilfælde har heterozygoten en større fitness end begge
@@ -282,7 +282,7 @@ beskrives som
 <img src="media/image23.png" style="width:2.88611in;height:2.87847in" />
 
  <figure>
-  <img  align="right" src="HWAvena.jpg" width=175 title="*Avena*">
+  <img  align="right" src="SelAveW.png" width=175 title="*Avena*">
  </figure>
 
   For dette simple system ses, at ligevægten er *p* = 0,6/(0,4 + 0,6) =
