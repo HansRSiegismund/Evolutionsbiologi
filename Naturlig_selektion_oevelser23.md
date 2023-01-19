@@ -1,7 +1,6 @@
-<span style="font-family:cursive;"> 
+# Naturlig Selektion
 
-### Naturlig Selektion
-
+<span style="font-family:cursive;">
 <br>
 
 ## Hans R. Siegismund
