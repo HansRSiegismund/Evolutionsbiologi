@@ -187,7 +187,7 @@ for allel *A*<sub>1</sub>
  <figure>
   <img  align="right" src="SelUnderD.png" width=175 title="Underdominans">
  </figure>
-  
+
   $W_{11}  > W_{12} \hbox{\quad og \quad}  W_{22} > W_{12} $
 I dette tilfælde har heterozygoten en mindre fitness end begge
 homozygoter. Der er tale om ***underdominans***. Evolutionen i et locus
@@ -695,8 +695,12 @@ figuren.
 
 3.  Hvilken form for ligevægt er der tale om i de tre tilfælde?
 
+  |Figur 1 |Figur 2|
+  |Figur 3 |Figur 4|
+  
+  
  <figure>
-  <img  align="center" src="SelDrift.png" width=600 title="Drift">
+  <img  align="center" src="SelDrift.png" width=700 title="Drift">
  </figure>
 
 [^1]: Haldane, J. B. S., 1949 Disease and evolution. Ric. Sci. Suppl. A
