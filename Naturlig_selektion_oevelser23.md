@@ -145,6 +145,11 @@ muligheder for selektionens virkning.
 **1) Retningsselektion** 
 $W_{11}  \geq W_{12}  \geq W_{22} $ 
 med højst ét lighedstegn
+
+ <figure>
+  <img  align="right" src="HWAvena.jpg" width=175 title="*Avena*">
+ </figure>
+
 Der må højst være ét lighedstegn i relationen mellem de tre
 fitness-værdier, for ellers har alle tre genotyper de samme
 fitness-værdier, og så virker naturlig selektion ikke på dette locus. I
@@ -164,6 +169,10 @@ ligevægte*** for allel *A*<sub>1</sub>.
 $W_{11}  \le W_{12}  \le W_{22} $ 
 med højst ét lighedstegn
 
+ <figure>
+  <img  align="right" src="HWAvena.jpg" width=175 title="*Avena*">
+ </figure>
+
 Dette system er ækvivalent til det første, nu vil naturlig selektion øge
 frekvensen af allel *A*<sub>2</sub>. Der findes ***to*** ***ligevægte***
 for allel *A*<sub>1</sub>
@@ -176,7 +185,12 @@ for allel *A*<sub>1</sub>
 1.<img src="media/image17.png" style="width:1.57292in;height:1.20833in" />
 
 **3) Underdominans**
-$W_{11}  > W_{12} \hbox{\quad og \quad}  W_{22} > W_{12} $
+
+ <figure>
+  <img  align="right" src="HWAvena.jpg" width=175 title="*Avena*">
+ </figure>
+  
+  $W_{11}  > W_{12} \hbox{\quad og \quad}  W_{22} > W_{12} $
 I dette tilfælde har heterozygoten en mindre fitness end begge
 homozygoter. Der er tale om ***underdominans***. Evolutionen i et locus
 med denne relation mellem genotypernes fitness forløber fundamentalt
@@ -200,7 +214,12 @@ ustabile ligevægt.
    
 **4) Overdominans**
 $W_{11}  < W_{12} \hbox{\quad og \quad}  W_{22} < W_{12} $
-I dette tilfælde har heterozygoten en større fitness end begge
+
+ <figure>
+  <img  align="right" src="HWAvena.jpg" width=175 title="*Avena*">
+ </figure>
+  
+  I dette tilfælde har heterozygoten en større fitness end begge
 homozygoter. Der er tale om ***overdominans***. Vi har nu igen ***tre
 ligevægte*** for polymorfien, men i modsætning til underdominans har vi
 nu en ***stabil indre ligevægt***
@@ -262,7 +281,11 @@ beskrives som
 
 <img src="media/image23.png" style="width:2.88611in;height:2.87847in" />
 
-For dette simple system ses, at ligevægten er *p* = 0,6/(0,4 + 0,6) =
+ <figure>
+  <img  align="right" src="HWAvena.jpg" width=175 title="*Avena*">
+ </figure>
+
+  For dette simple system ses, at ligevægten er *p* = 0,6/(0,4 + 0,6) =
 0,6. Ligegyldigt hvor vi starter med frekvensen af allel
 *A*<sub>1</sub>, så ender vi op i ligevægtspunktet. Vi afbilder nu
 populationens gennemsnitlige fitness
@@ -295,7 +318,12 @@ beskrives som
 
 <img src="media/image25.png" style="width:2.88333in;height:2.52986in" />
 
-Her skal vi ikke lade os forstyrre af de negative
+
+ <figure>
+  <img  align="right" src="HWAvena.jpg" width=175 title="*Avena*">
+ </figure>
+
+  Her skal vi ikke lade os forstyrre af de negative
 selektionskoefficienter. Det betyder blot, at de to homozygoter har en
 højere fitness end heterozygoten. Her er ligevægten *p* = –0,6/(–0,4 –
 0,6) = 0,6. Afbildes
@@ -437,6 +465,10 @@ recessiv allel.
 
 ### Opgave 1
 
+ <figure>
+  <img  align="right" src="HWAvena.jpg" width=175 title="*Avena*">
+ </figure>
+
 Mange plantearter har udviklet mekanismer, der forhindrer
 selvbestøvning. I det gametofytiske selvuforenelighedssystem er det
 pollenets egen genotype, der afgør, om det kan spire på en given plante.
@@ -465,6 +497,10 @@ gametofytisk selvuforeneligheds-system som beskrevet ovenfor.
     krydsbestøvning?
 
 ### Opgave 2
+
+ <figure>
+  <img  align="right" src="HWAvena.jpg" width=175 title="*Avena*">
+ </figure>
 
 Hos fugle og sommerfugle bliver kønnet bestemt kromosomalt. Hunner er
 heterogametiske *ZW* og hannerne er homogametiske *ZZ*. I nogle
@@ -504,7 +540,12 @@ genetisk drift.
     mange ustabile? Angiv frekvensen for allel 1 (*p*) for alle mulige
     ligevægte.
 
-Betragt nu en population af en selvbestøvende plante med fitness som
+
+ <figure>
+  <img  align="right" src="HWAvena.jpg" width=175 title="*Avena*">
+ </figure>
+
+  Betragt nu en population af en selvbestøvende plante med fitness som
 angivet ovenfor. De forplanter sig udelukkende ved selvbestøvning. Vi
 betragter det samme locus. Antag, at vi starter med en 1/3 af hver
 genotype. Der ses igen bort fra genetisk drift.
@@ -526,6 +567,10 @@ drift.<img src="media/image37.jpg" style="width:1.49653in;height:0.86944in" />
 4**<img src="media/image38.gif" style="width:2.07873in;height:1.61979in" />
 
 ### Opgave 4
+
+ <figure>
+  <img  align="right" src="HWAvena.jpg" width=175 title="*Avena*">
+ </figure>
 
 Den californiske kondor (*Gymnogyps californianus*) har efter
 europæernes ankomst til Amerika været forfulgt. Det har resulteret i en
@@ -599,6 +644,10 @@ I en population ved undersøgte man 10.000 voksne personer og fandt
     værdi.
 
 ### Opgave 6
+  
+ <figure>
+  <img  align="right" src="HWAvena.jpg" width=175 title="*Avena*">
+ </figure>
 
 Riddersporen *Delphinium nelsonii* er medlem af ranunkelfamilien. Den
 har normalt mørkeblå blomster. Hvid-blomstrede planter er homozygot
@@ -653,6 +702,10 @@ figuren.
     allelfrekvensen af det?
 
 3.  Hvilken form for ligevægt er der tale om i de tre tilfælde?
+
+ <figure>
+  <img  align="center" src="HWAvena.jpg" width=175 title="*Avena*">
+ </figure>
 
 <img src="media/image41.png" style="width:6.26736in;height:3.64738in" />
 
