@@ -163,8 +163,6 @@ ligevægte*** for allel *A*<sub>1</sub>.
 1: som er ***stabil***, dvs, hvis man ændrer frekvensen af allel
 *A*<sub>1</sub> lidt fra 1, vil den bevæge sig tilbage til 1.
 
-<img src="media/image15.png" style="width:1.57292in;height:1.01042in" />
-
 **2) Retningsselektion**
 $W_{11}  \le W_{12}  \le W_{22} $ 
 med højst ét lighedstegn
@@ -182,12 +180,12 @@ for allel *A*<sub>1</sub>
 
 1: som er ***ustabil***, dvs, hvis man ændrer frekvensen af allel
 *A*<sub>1</sub> lidt fra 1, vil den bevæge sig bort fra
-1.<img src="media/image17.png" style="width:1.57292in;height:1.20833in" />
-
+1.
+  
 **3) Underdominans**
 
  <figure>
-  <img  align="right" src="SelUnderD.png" width=175 title="SelUnderD">
+  <img  align="right" src="SelUnderD.png" width=175 title="Underdominans">
  </figure>
   
   $W_{11}  > W_{12} \hbox{\quad og \quad}  W_{22} > W_{12} $
@@ -286,7 +284,7 @@ beskrives som
 |Selektionskoefficient|   0,4          | 0              |0,6              |
 
  <figure>
-  <img  align="right" src="SelAveW.png" width=175 title="SelAveW">
+  <img  align="right" src="SelAveW.png" width=250 title="SelAveW">
  </figure>
 
 For dette simple system ses, at ligevægten er *p* = 0,6/(0,4 + 0,6) =
@@ -319,9 +317,6 @@ beskrives som
 |---------------------|:--------------:|:--------------:|:---------------:|
 |Relativ fitness      |1,4             |1               | 1,6             |
 |Selektionskoefficient|  -0,4          | 0              |-0,6             |
-
-<img src="media/image25.png" style="width:2.88333in;height:2.52986in" />
-
 
  <figure>
   <img  align="right" src="SelunderD.png" width=175 title="SelunderD.png">
@@ -470,7 +465,7 @@ recessiv allel.
 ### Opgave 1
 
  <figure>
-  <img  align="right" src="SelTrifoium.png" width=175 title="SelTrifoium.png">
+  <img  align="right" src="SelTrifolium.png" width=175 title="Trifolium">
  </figure>
 
 Mange plantearter har udviklet mekanismer, der forhindrer
@@ -512,8 +507,6 @@ en mutant af *W*-kromosomet, *W*<sup>\*</sup>. Hunner, der bærer denne
 mutant, er fænotypisk normale, men deres afkom er udelukkende døtre. De
 får lige så meget afkom som normale
 hunner.
-  
- <img src="media/image36.jpg" style="width:2.16667in;height:1.98611in" />
 
 1)  Hvad sker der med hyppigheden af *W*<sup>\*</sup>-kromosomet, når
     det introduceres i en population (der ses bort fra genetisk drift)?
@@ -569,7 +562,7 @@ drift.
 ### Opgave 4
 
  <figure>
-  <img  align="right" src="SelKondor.png" width=175 title="Kondor">
+  <img  align="right" src="SelKondor.png" width=225 title="Kondor">
  </figure>
 
 Den californiske kondor (*Gymnogyps californianus*) har efter
@@ -657,7 +650,6 @@ frekvens på 7,4 × 10<sup>-4</sup>. Hvid-blomstrede planter satte i
 gennemsnit 143 frø per plante i modsætning til planter med blå blomster,
 der i gennemsnit satte 229 frø. Forskellen skyldes at pollinatorer –
 hovedsageligt humlebier og kolibrier – foretrak de blå blomster.
-<img src="media/image40.jpg" style="width:2.02639in;height:1.69722in" />
 
 1)  Hvad er frekvensen af allelen for hvid? Antag, at der er
     Hardy-Weinberg proportioner i dette system.
