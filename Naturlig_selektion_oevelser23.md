@@ -310,8 +310,7 @@ allel *A*<sub>2</sub>, medens vi får fikseret allel *A*<sub>1</sub>, når
 vi starter med en frekvens over ligevægten. Naturlig selektion øger
 altid den gennemsnitlige fitness i populationen, men vi kan til tider
 ende op i et lokalt maksimum.
-
-  $$\Delta q(\mu)=p\mu$$
+  
 **Ligevægt mellem mutation og selektion**
 
 Langt de fleste mutationer i kodende gener viser sig at være skadelige.
@@ -330,7 +329,7 @@ generations zygoter, er *p*, der med raten *μ* muterer til den skadelige
 allel. Mængden af ny-introducerede skadelige alleler i næste generation
 er så
 
-$$\Delta q(\mu)=p\mu$$
+$$\Delta q(\mu)=p\mu$$.
 
 Samtidigt fjernes der i hver generation skadelige alleler på grund af
 deres bæreres nedsatte overlevelse. Måden, det sker på, er forskelligt
@@ -353,33 +352,27 @@ sammensmeltning af gameter, som resulterer i Hardy-Weinberg
 fjerne det følgende antal skadelige alleler fra populationen
 
 
-$\Delta q(sel)=q^2s$
+$$\Delta q(sel)=q^2s$$
 
 I ligevægt mellem mutation og selektion må vi have, at
 
-  
+ 
 $$\begin{aligned}
 \begin{array}{rl}
-\Delta q(sel) & =  \Delta q(\mu\\
+\Delta q(sel) & =  \Delta q(\mu)\\
          & = p\mu
  \end{array}
 \end{aligned}$$
 
-  <img src="media/image28.png" style="width:1.15347in;height:0.50833in" />*.*
-
 Da *p* er tæt på 1, vil vi have
 
-
-$sq^2\approx\mu$,
+$$sq^2\approx\mu$$,
 
 som løses til
 
-$q = \sqrt{\mu/s}$,
+$$q = \sqrt{\mu/s}$$,
 
 **Dominante skadelige gener** Her er de tre genotypers fitness givet med
-
-*A*<sub>11</sub> *A*<sub>12</sub> *A*<sub>22</sub>
-
 
 |                     |*A*<sub>11</sub>|*A*<sub>12</sub>| *A*<sub>22</sub>|
 |---------------------|:--------------:|:--------------:|:---------------:|
@@ -395,31 +388,45 @@ ligevægt mellem mutation og selektion. Bidraget fra mutationer er det
 samme som nævnt før, medens naturlig selektion i hver generation vil
 fjerne det følgende antal skadelige alleler fra populationen
 
-<img src="media/image31.png" style="width:1.25833in;height:0.47569in" />
+$$\begin{aligned}
+\begin{array}{rl}
+\Delta q(sel) & =  2pqs/2\\
+         & = pqs
+ \end{array}
+\end{aligned}$$
 
 Her dividerer med 2, da hver heterozygot kun bærer en *A*<sub>2</sub>
 allel. Vi husker på, at *p* er tæt på 1. I ligevægt mellem mutation og
 selektion må vi have, at
 
-$qs = \mu$,  
+$$qs = \mu$$,  
 
 som løses til
 
-  $q = \mu/s$,
+  $$q = \mu/s$$.
 
 Der er stor forskel i allelernes ligevægtsfrekvenser, afhængig om det er
 en recessiv eller en dominant skadelig mutation. Betragt et autosomalt
 locus med en letal allel, dvs. *s* = 1, hvor mutationsraten er
 10<sup>-6</sup>. Her er
 
-<img src="media/image34.png" style="width:2.19375in;height:0.58056in" />
+$$\begin{aligned}
+\begin{array}{rl}
+   q_{rec} & = \sqrt{\mu/s}\\
+           & = \sqrt{10^{-6}/1}\\
+           & = 0,001\\
+   q_{dom} & = \mu/s\\
+           & = 10^{-6}/1\\
+           & = 0,000.001
+ \end{array}
+\end{aligned}$$
 
 Dvs., den dominante allel er tusind gange mere sjælden end en skadelig
 recessiv allel.
 
-**Naturlig selektion**
+# Naturlig selektion øvelser
 
-**Formål**
+## Formål
 
 - Analysere naturlig selektions virkning på det haploide og diploide
   niveau
@@ -431,9 +438,7 @@ recessiv allel.
 
 - Analysere samspil mellem naturlig selektion og mutation
 
-**Besvares af gruppe 1**
-
-**Opgave 1**
+### Opgave 1
 
 Mange plantearter har udviklet mekanismer, der forhindrer
 selvbestøvning. I det gametofytiske selvuforenelighedssystem er det
@@ -448,7 +453,8 @@ fra *S*<sub>1</sub>*S*<sub>2</sub> planten, hvis det har genotypen
 *S*<sub>2</sub>. Det vil sige, at kun halvdelen af pollenet fra
 *S*<sub>1</sub>*S*<sub>2</sub> planten vil være i stand til at spire på
 *S*<sub>1</sub>*S*<sub>3</sub>
-planten.<img src="media/image35.jpg" style="width:1.50903in;height:2.01736in" />
+planten.
+  <img src="media/image35.jpg" style="width:1.50903in;height:2.01736in" />
 
 I nogle arter af kløver, *Trifolium*, styres befrugtningen af et
 gametofytisk selvuforeneligheds-system som beskrevet ovenfor.
@@ -461,9 +467,7 @@ gametofytisk selvuforeneligheds-system som beskrevet ovenfor.
     kræves for at en population af kløver kan formere sig alene ved
     krydsbestøvning?
 
-**Besvares af gruppe 2**
-
-**Opgave 2**
+### Opgave 2
 
 Hos fugle og sommerfugle bliver kønnet bestemt kromosomalt. Hunner er
 heterogametiske *ZW* og hannerne er homogametiske *ZZ*. I nogle
@@ -471,7 +475,9 @@ populationer af den afrikanske sommerfugl *Acraea encedon* optræder der
 en mutant af *W*-kromosomet, *W*<sup>\*</sup>. Hunner, der bærer denne
 mutant, er fænotypisk normale, men deres afkom er udelukkende døtre. De
 får lige så meget afkom som normale
-hunner.<img src="media/image36.jpg" style="width:2.16667in;height:1.98611in" />
+hunner.
+  
+ <img src="media/image36.jpg" style="width:2.16667in;height:1.98611in" />
 
 1)  Hvad sker der med hyppigheden af *W*<sup>\*</sup>-kromosomet, når
     det introduceres i en population (der ses bort fra genetisk drift)?
@@ -480,19 +486,14 @@ hunner.<img src="media/image36.jpg" style="width:2.16667in;height:1.98611in" />
 
 Man behøver ikke regne for at besvare spørgsmålene!
 
-**Besvares af gruppe 3**
-
-# Opgave 3 
+### Opgave 3 
 
 Betragt et autosomalt locus med to alleler, der har indflydelse på
 bærerens fitness, som angivet i tabellen:
 
-> Genotype *A*<sub>1</sub>*A*<sub>1</sub> *A*<sub>1</sub>*A*<sub>2</sub>
-> *A*<sub>2</sub>*A*<sub>2</sub>
-
-—————————————
-
-Fitness 0.6 1 0.4
+|Genotype     |*A*<sub>1</sub>*A*<sub>1</sub>| *A*<sub>1</sub>*A*<sub>2</sub> | *A*<sub>2</sub>*A*<sub>2</sub>|
+|-------------|:----------------------------:|:------------------------------:|:------------------------------|
+|Fitness      |0.6                           |1                               |  0.4                           |
 
 1)  Hvilken form for selektion foregår? Hvad er selektionskoefficenterne
     for de to homozygoter?
