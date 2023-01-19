@@ -1,10 +1,10 @@
 # Naturlig Selektion
 
 <span style="font-family:cursive;">
-<br>
+
 
 ## Hans R. Siegismund
-<br>
+
 
 ## Teoretisk baggrund
 <font size="4"> 
