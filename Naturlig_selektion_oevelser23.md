@@ -269,9 +269,8 @@ For dette simple system ses, at ligevægten er *p* = 0,6/(0,4 + 0,6) =
 0,6. Ligegyldigt hvor vi starter med frekvensen af allel
 *A*<sub>1</sub>, så ender vi op i ligevægtspunktet. Vi afbilder nu
 populationens gennemsnitlige fitness
-$  \overline{W} =p^2W_{11}+2pqW_{12}+q^2W_{12} $
-
-> <img src="media/image2.png" style="width:2.01597in;height:0.27431in" />
+  
+$\overline{W} =p^2W_{11}+2pqW_{12}+q^2W_{12}$
 
 som funktion af allelfrekvensen, hvilket er gjort i figuren til højre.
 Når *p* = 0 er der udelukkende *A*<sub>22</sub> i populationen, som har
