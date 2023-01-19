@@ -311,6 +311,7 @@ vi starter med en frekvens over ligevægten. Naturlig selektion øger
 altid den gennemsnitlige fitness i populationen, men vi kan til tider
 ende op i et lokalt maksimum.
 
+  $$\Delta q(\mu)=p\mu$$
 **Ligevægt mellem mutation og selektion**
 
 Langt de fleste mutationer i kodende gener viser sig at være skadelige.
@@ -329,7 +330,7 @@ generations zygoter, er *p*, der med raten *μ* muterer til den skadelige
 allel. Mængden af ny-introducerede skadelige alleler i næste generation
 er så
 
-<img src="media/image26.png" style="width:0.84653in;height:0.20972in" />*.*
+$$\Delta q(\mu)=p\mu$$
 
 Samtidigt fjernes der i hver generation skadelige alleler på grund af
 deres bæreres nedsatte overlevelse. Måden, det sker på, er forskelligt
@@ -339,44 +340,51 @@ De to tilfælde gennemgås derfor særskilt.
 **Recessive skadelige gener** Her kan de tre genotypers fitness
 beskrives som
 
-*A*<sub>11</sub> *A*<sub>12</sub> *A*<sub>22</sub>
+|                     |*A*<sub>11</sub>|*A*<sub>12</sub>| *A*<sub>22</sub>|
+|---------------------|:--------------:|:--------------:|:---------------:|
+|Relativ fitness      |1              |1                | 1 - *s*         |
+|Selektionskoefficient|  0            | 0               |*s*              |
 
-———————————————————————————
-
-> Relativ fitness 1 1 1 – *s*
->
-> Selektionskoefficient 0 0 *s*
-
-Hvor *s* er selektionskoefficienten mod den recessive homozygote bærer.
+Her er *s* selektionskoefficienten mod den recessive homozygote bærer.
 Antag nu, at polymorfien befinder sig i ligevægt mellem mutation og
 selektion. Zygoterne antages at være blevet produceret gennem tilfældig
 sammensmeltning af gameter, som resulterer i Hardy-Weinberg
 -proportioner blandt dem. Naturlig selektion vil i hver generation
 fjerne det følgende antal skadelige alleler fra populationen
 
-<img src="media/image27.png" style="width:0.95972in;height:0.25833in" />*.*
+
+$\Delta q(sel)=q^2s$
 
 I ligevægt mellem mutation og selektion må vi have, at
 
-<img src="media/image28.png" style="width:1.15347in;height:0.50833in" />*.*
+  
+$$\begin{aligned}
+\begin{array}{rl}
+\Delta q(sel) & =  \Delta q(\mu\\
+         & = p\mu
+ \end{array}
+\end{aligned}$$
+
+  <img src="media/image28.png" style="width:1.15347in;height:0.50833in" />*.*
 
 Da *p* er tæt på 1, vil vi have
 
-<img src="media/image29.png" style="width:0.58056in;height:0.25833in" />*,*
+
+$sq^2\approx\mu$,
 
 som løses til
 
-<img src="media/image30.png" style="width:0.71806in;height:0.27431in" />*.*
+$q = \sqrt{\mu/s}$,
 
 **Dominante skadelige gener** Her er de tre genotypers fitness givet med
 
 *A*<sub>11</sub> *A*<sub>12</sub> *A*<sub>22</sub>
 
-———————————————————————————
 
-> Relativ fitness 1 1 – *s* 1 – *x*
->
-> Selektionskoefficient 0 *s* *x*
+|                     |*A*<sub>11</sub>|*A*<sub>12</sub>| *A*<sub>22</sub>|
+|---------------------|:--------------:|:--------------:|:---------------:|
+|Relativ fitness      |1              |1 - *s*          | 1 - *x*         |
+|Selektionskoefficient|  0            | *s*             |*x*              |
 
 Hvor *s* er selektionskoefficienten mod den dominante heterozygote
 bærer, og *x* er selektionskoefficienten mod den dominante homozygote
@@ -393,11 +401,11 @@ Her dividerer med 2, da hver heterozygot kun bærer en *A*<sub>2</sub>
 allel. Vi husker på, at *p* er tæt på 1. I ligevægt mellem mutation og
 selektion må vi have, at
 
-<img src="media/image32.png" style="width:0.47569in;height:0.17708in" />*,*
+$qs = \mu$,  
 
 som løses til
 
-<img src="media/image33.png" style="width:0.62917in;height:0.20972in" />
+  $q = \mu/s$,
 
 Der er stor forskel i allelernes ligevægtsfrekvenser, afhængig om det er
 en recessiv eller en dominant skadelig mutation. Betragt et autosomalt
