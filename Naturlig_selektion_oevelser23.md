@@ -550,7 +550,9 @@ værdi på 0,09.
     kræfter i spørgsmål c!)
 
  ● mutation
+  
  ● genetisk drift
+  
  ● naturlig selektion
 
 3)  Er det nødvendigt at antage, at to eller tre af disse kræfter virker
@@ -574,11 +576,11 @@ mod malaria og derfor have en højere fitness end den normale homozygot.
 
 I en population ved undersøgte man 10.000 voksne personer og fandt
 
-- 9196 normale
+ ●  9196 normale
 
-  - 800 med thalassemia minor
+ ●  800 med thalassemia minor
 
-  - 4 med thalassemia major
+ ●  4 med thalassemia major
   
 1)  Beregn på basis af denne prøve allelfrekvenserne i populationen.
 
