@@ -1,5 +1,6 @@
 <span style="font-family:cursive;"> 
-# Naturlig Selektion
+
+### Naturlig Selektion
 
 <br>
 
@@ -147,7 +148,7 @@ $W_{11}  \geq W_{12}  \geq W_{22} $
 med højst ét lighedstegn
 
  <figure>
-  <img  align="right" src="SelRetning1.png" width=175 title="Ret1">
+  <img  align="right" src="SelRetning1.png" width=175 title="Retningsselektion">
  </figure>
 
 Der må højst være ét lighedstegn i relationen mellem de tre
@@ -168,7 +169,7 @@ $W_{11}  \le W_{12}  \le W_{22} $
 med højst ét lighedstegn
 
  <figure>
-  <img  align="right" src="SelRetning2.png" width=175 title="Ret2">
+  <img  align="right" src="SelRetning2.png" width=175 title="Retningsselektion">
  </figure>
 
 Dette system er ækvivalent til det første, nu vil naturlig selektion øge
