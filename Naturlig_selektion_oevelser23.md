@@ -245,13 +245,15 @@ Derfor kan vi normere værdierne, hvor vi sætter den højeste værdi til 1.
 I det nævnte tilfælde bliver værdierne så ½, 1 og ½. Generelt kan vi
 udtrykke fitnessværdierne som i følgende tabel
 
-</center>
-
+<div align="center">
+   
 |                     |*A*<sub>11</sub>|*A*<sub>12</sub>| *A*<sub>22</sub>|
 |---------------------|:--------------:|:--------------:|:---------------:|
 |Fitness              |*W*<sub>11</sub>|*W*<sub>12</sub>|*W*<sub>22</sub> |
 |Relativ fitness      |1 – *s*         |1               |1 – *t*          |
 |Selektionskoefficient|   *s*          | 0              |*t*              |
+   
+</div>
 
 </center>
   
@@ -281,10 +283,16 @@ selektion, som er beskrevet foroven.
 Lad os tage et simpelt eksempel, hvor de tre genotypers fitness kan
 beskrives som
 
+ <div align="center">
+   
 |                     |*A*<sub>11</sub>|*A*<sub>12</sub>| *A*<sub>22</sub>|
 |---------------------|:--------------:|:--------------:|:---------------:|
 |Relativ fitness      |0,6             |1               |0,4              |
 |Selektionskoefficient|   0,4          | 0              |0,6              |
+
+   </div>
+
+</center>
 
  <figure>
   <img  align="right" src="SelAveW.png" width=250 title="Gennemsnitlig fitness">
@@ -315,11 +323,16 @@ men kan ende op i et ***lokalt maksimum*** for $\overline{W}$.
 Lad os tage et simpelt eksempel, hvor de tre genotypers fitness kan
 beskrives som
 
+<div align="center">
 
 |                     |*A*<sub>11</sub>|*A*<sub>12</sub>| *A*<sub>22</sub>|
 |---------------------|:--------------:|:--------------:|:---------------:|
 |Relativ fitness      |1,4             |1               | 1,6             |
 |Selektionskoefficient|  -0,4          | 0              |-0,6             |
+
+ </div>
+
+</center>
 
  <figure>
   <img  align="right" src="SelAveWUnderD.png" width=250 title="Underdominans">
@@ -366,10 +379,16 @@ De to tilfælde gennemgås derfor særskilt.
 **Recessive skadelige gener** Her kan de tre genotypers fitness
 beskrives som
 
+<div align="center">
+
 |                     |*A*<sub>11</sub>|*A*<sub>12</sub>| *A*<sub>22</sub>|
 |---------------------|:--------------:|:--------------:|:---------------:|
 |Relativ fitness      |1              |1                | 1 - *s*         |
 |Selektionskoefficient|  0            | 0               |*s*              |
+ 
+</div>
+
+</center>
 
 Her er *s* selektionskoefficienten mod den recessive homozygote bærer.
 Antag nu, at polymorfien befinder sig i ligevægt mellem mutation og
@@ -401,10 +420,16 @@ $$q = \sqrt{\mu/s}$$,
 
 **Dominante skadelige gener** Her er de tre genotypers fitness givet med
 
+<div align="center">
+ 
 |                     |*A*<sub>11</sub>|*A*<sub>12</sub>| *A*<sub>22</sub>|
 |---------------------|:--------------:|:--------------:|:---------------:|
 |Relativ fitness      |1              |1 - *s*          | 1 - *x*         |
 |Selektionskoefficient|  0            | *s*             |*x*              |
+
+</div>
+
+</center>
 
 Hvor *s* er selektionskoefficienten mod den dominante heterozygote
 bærer, og *x* er selektionskoefficienten mod den dominante homozygote
@@ -523,9 +548,15 @@ Man behøver ikke regne for at besvare spørgsmålene!
 Betragt et autosomalt locus med to alleler, der har indflydelse på
 bærerens fitness, som angivet i tabellen:
 
+<div align="center">
+
 |Genotype     |*A*<sub>1</sub>*A*<sub>1</sub>| *A*<sub>1</sub>*A*<sub>2</sub> | *A*<sub>2</sub>*A*<sub>2</sub>|
 |-------------|:----------------------------:|:------------------------------:|:------------------------------|
 |Fitness      |0.6                           |1                               |  0.4                           |
+
+</div>
+
+</center>
 
 1)  Hvilken form for selektion foregår? Hvad er selektionskoefficenterne
     for de to homozygoter?
@@ -698,20 +729,17 @@ figuren.
 
 3.  Hvilken form for ligevægt er der tale om i de tre tilfælde?
 
-|        |       |
+<div align="center">
+
+  |        |       |
 |--------|-------|
 |Figur 1 |Figur 2|
 |Figur 3 |Figur 4|
   
+   </div>
 
-|                     |*A*<sub>11</sub>|*A*<sub>12</sub>| *A*<sub>22</sub>|
-|---------------------|:--------------:|:--------------:|:---------------:|
-|Relativ fitness      |1,4             |1               | 1,6             |
-|Selektionskoefficient|  -0,4          | 0              |-0,6             |
+</center>
 
-
-  
-  
  <figure>
   <img  align="center" src="SelDrift.png" width=700 title="Drift og selektion">
  </figure>
