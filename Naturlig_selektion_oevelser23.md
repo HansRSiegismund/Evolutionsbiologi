@@ -215,7 +215,7 @@ ustabile ligevægt.
 $W_{11}  < W_{12} \hbox{\quad og \quad}  W_{22} < W_{12} $
 
  <figure>
-  <img  align="right" src="SelOverD.png" width=175 title="Overd">
+  <img  align="right" src="SelOverD.png" width=175 title="Overdominans">
  </figure>
   
   I dette tilfælde har heterozygoten en større fitness end begge
@@ -285,7 +285,7 @@ beskrives som
 |Selektionskoefficient|   0,4          | 0              |0,6              |
 
  <figure>
-  <img  align="right" src="SelAveW.png" width=250 title="SelAveW">
+  <img  align="right" src="SelAveW.png" width=250 title="Gennemsnitlig fitness">
  </figure>
 
 For dette simple system ses, at ligevægten er *p* = 0,6/(0,4 + 0,6) =
@@ -320,7 +320,7 @@ beskrives som
 |Selektionskoefficient|  -0,4          | 0              |-0,6             |
 
  <figure>
-  <img  align="right" src="SelunderD.png" width=175 title="SelunderD.png">
+  <img  align="right" src="SelunderD.png" width=175 title="Underdominans">
  </figure>
 
   Her skal vi ikke lade os forstyrre af de negative
@@ -498,7 +498,7 @@ gametofytisk selvuforeneligheds-system som beskrevet ovenfor.
 ### Opgave 2
 
  <figure>
-  <img  align="right" src="SelAcrea.png" width=175 title="SelAcrea.png">
+  <img  align="right" src="SelAcrea.png" width=175 title="Acrea encedon">
  </figure>
 
 Hos fugle og sommerfugle bliver kønnet bestemt kromosomalt. Hunner er
@@ -545,7 +545,7 @@ genotype. Der ses igen bort fra genetisk drift.
 3)  Hvordan vil evolutionen i en sådan plante foregå?
 
  <figure>
-  <img  align="right" src="SelMaelkeboette.png" width=175 title="Maelkeboette">
+  <img  align="right" src="SelMaelkeboette.png" width=175 title="Mælkebøtte">
  </figure>
 
  Betragt nu en population af en apomiktisk plante (som mælkebøtter
@@ -701,7 +701,7 @@ figuren.
   
   
  <figure>
-  <img  align="center" src="SelDrift.png" width=700 title="Drift">
+  <img  align="center" src="SelDrift.png" width=700 title="Drift og selektion">
  </figure>
 
 [^1]: Haldane, J. B. S., 1949 Disease and evolution. Ric. Sci. Suppl. A
