@@ -183,12 +183,13 @@ for allel *A*<sub>1</sub>
 1.
   
 **3) Underdominans**
-
+ $W_{11}  > W_{12} \hbox{\quad og \quad}  W_{22} > W_{12} $
+  
  <figure>
   <img  align="right" src="SelUnderD.png" width=175 title="Underdominans">
  </figure>
 
-  $W_{11}  > W_{12} \hbox{\quad og \quad}  W_{22} > W_{12} $
+ 
 I dette tilfælde har heterozygoten en mindre fitness end begge
 homozygoter. Der er tale om ***underdominans***. Evolutionen i et locus
 med denne relation mellem genotypernes fitness forløber fundamentalt
