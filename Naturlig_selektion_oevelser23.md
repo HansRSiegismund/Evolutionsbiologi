@@ -147,7 +147,7 @@ $W_{11}  \geq W_{12}  \geq W_{22} $
 med højst ét lighedstegn
 
  <figure>
-  <img  align="right" src="HWAvena.jpg" width=175 title="*Avena*">
+  <img  align="right" src="SelRetning1.png" width=175 title="Ret1">
  </figure>
 
 Der må højst være ét lighedstegn i relationen mellem de tre
@@ -170,7 +170,7 @@ $W_{11}  \le W_{12}  \le W_{22} $
 med højst ét lighedstegn
 
  <figure>
-  <img  align="right" src="HWAvena.jpg" width=175 title="*Avena*">
+  <img  align="right" src="SelRetning2.png" width=175 title="Ret2">
  </figure>
 
 Dette system er ækvivalent til det første, nu vil naturlig selektion øge
