@@ -256,9 +256,16 @@ udtrykke fitnessværdierne som i følgende tabel
   
 Fitnessværdiernes difference fra 1 betegner vi som
 ***selektionskoefficent***. Vi kan derfor udtrykke ligevægtspunktet for
-overdominans ved hjælp af selektionskoefficienterne *s* og *t.*
-
-<img src="media/image22.png" style="width:1.72569in;height:1.80625in" />
+overdominans ved hjælp af selektionskoefficienterne *s* og *t*
+  
+ $$
+\begin{align}
+ p &=\frac{W_{22}-W_{12}}{W_{11}-W_{12}+W_{22}-W_{12}}\\
+   &=\frac{1-t-1}{1-s-1+1-t-1}\\
+   &=\frac{-t}{-s-t}\\
+   &=\frac{t}{s+t}\\
+\end{align}
+$$
 
 **Ændring i populationens gennemsnitlige fitness**
 
@@ -278,14 +285,11 @@ beskrives som
 |Relativ fitness      |0,6             |1               |0,4              |
 |Selektionskoefficient|   0,4          | 0              |0,6              |
 
-
-<img src="media/image23.png" style="width:2.88611in;height:2.87847in" />
-
  <figure>
-  <img  align="right" src="SelAveW.png" width=175 title="*Avena*">
+  <img  align="right" src="SelAveW.png" width=175 title="SelAveW">
  </figure>
 
-  For dette simple system ses, at ligevægten er *p* = 0,6/(0,4 + 0,6) =
+For dette simple system ses, at ligevægten er *p* = 0,6/(0,4 + 0,6) =
 0,6. Ligegyldigt hvor vi starter med frekvensen af allel
 *A*<sub>1</sub>, så ender vi op i ligevægtspunktet. Vi afbilder nu
 populationens gennemsnitlige fitness
@@ -320,7 +324,7 @@ beskrives som
 
 
  <figure>
-  <img  align="right" src="HWAvena.jpg" width=175 title="*Avena*">
+  <img  align="right" src="SelunderD.png" width=175 title="SelunderD.png">
  </figure>
 
   Her skal vi ikke lade os forstyrre af de negative
@@ -466,7 +470,7 @@ recessiv allel.
 ### Opgave 1
 
  <figure>
-  <img  align="right" src="HWAvena.jpg" width=175 title="*Avena*">
+  <img  align="right" src="SelTrifoium.png" width=175 title="SelTrifoium.png">
  </figure>
 
 Mange plantearter har udviklet mekanismer, der forhindrer
@@ -483,8 +487,7 @@ fra *S*<sub>1</sub>*S*<sub>2</sub> planten, hvis det har genotypen
 *S*<sub>1</sub>*S*<sub>2</sub> planten vil være i stand til at spire på
 *S*<sub>1</sub>*S*<sub>3</sub>
 planten.
-  <img src="media/image35.jpg" style="width:1.50903in;height:2.01736in" />
-
+ 
 I nogle arter af kløver, *Trifolium*, styres befrugtningen af et
 gametofytisk selvuforeneligheds-system som beskrevet ovenfor.
 
@@ -499,7 +502,7 @@ gametofytisk selvuforeneligheds-system som beskrevet ovenfor.
 ### Opgave 2
 
  <figure>
-  <img  align="right" src="HWAvena.jpg" width=175 title="*Avena*">
+  <img  align="right" src="SelAcrea.png" width=175 title="SelAcrea.png">
  </figure>
 
 Hos fugle og sommerfugle bliver kønnet bestemt kromosomalt. Hunner er
@@ -540,36 +543,33 @@ genetisk drift.
     mange ustabile? Angiv frekvensen for allel 1 (*p*) for alle mulige
     ligevægte.
 
-
- <figure>
-  <img  align="right" src="HWAvena.jpg" width=175 title="*Avena*">
- </figure>
-
-  Betragt nu en population af en selvbestøvende plante med fitness som
+ Betragt nu en population af en selvbestøvende plante med fitness som
 angivet ovenfor. De forplanter sig udelukkende ved selvbestøvning. Vi
 betragter det samme locus. Antag, at vi starter med en 1/3 af hver
 genotype. Der ses igen bort fra genetisk drift.
 
 3)  Hvordan vil evolutionen i en sådan plante foregå?
 
-Betragt nu en population af en apomiktisk plante (som mælkebøtter
+ <figure>
+  <img  align="right" src="SelMaelkeboette.png" width=175 title="Maelkeboette">
+ </figure>
+
+ Betragt nu en population af en apomiktisk plante (som mælkebøtter
 f.eks.). I en apomiktisk population er alt afkom af en plante en klon af
 moderens genotype. Antag, at vi starter med en 1/3 af hver genotype, og
 at fitness er som angivet ovenfor. Der ses igen bort fra genetisk
-drift.<img src="media/image37.jpg" style="width:1.49653in;height:0.86944in" />
+drift.
 
 4)  Hvordan vil evolutionen i en sådan plante foregå?
 
 5)  I hvilken af de tre nævnte tilfælde har populationen den højeste
     fitness, når der er opnået en ligevægt?
 
-**Besvares af gruppe
-4**<img src="media/image38.gif" style="width:2.07873in;height:1.61979in" />
 
 ### Opgave 4
 
  <figure>
-  <img  align="right" src="HWAvena.jpg" width=175 title="*Avena*">
+  <img  align="right" src="SelKondor.png" width=175 title="Kondor">
  </figure>
 
 Den californiske kondor (*Gymnogyps californianus*) har efter
@@ -646,7 +646,7 @@ I en population ved undersøgte man 10.000 voksne personer og fandt
 ### Opgave 6
   
  <figure>
-  <img  align="right" src="HWAvena.jpg" width=175 title="*Avena*">
+  <img  align="right" src="SelDelphinium.png" width=175 title="Delphinium">
  </figure>
 
 Riddersporen *Delphinium nelsonii* er medlem af ranunkelfamilien. Den
@@ -704,10 +704,8 @@ figuren.
 3.  Hvilken form for ligevægt er der tale om i de tre tilfælde?
 
  <figure>
-  <img  align="center" src="HWAvena.jpg" width=175 title="*Avena*">
+  <img  align="center" src="SelDrift.png" width=600 title="Drift">
  </figure>
-
-<img src="media/image41.png" style="width:6.26736in;height:3.64738in" />
 
 [^1]: Haldane, J. B. S., 1949 Disease and evolution. Ric. Sci. Suppl. A
     19:68-76. \[often requoted, e.g., in Dronamraju, K. (Editor), 1990,
