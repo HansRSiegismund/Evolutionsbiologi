@@ -574,11 +574,12 @@ mod malaria og derfor have en højere fitness end den normale homozygot.
 
 I en population ved undersøgte man 10.000 voksne personer og fandt
 
-\begin{itemize}
-\item 9196 normale
-\item 800 med thalassemia minor
-\item 4 med thalassemia major
-\end{itemize}
+- 9196 normale
+
+  - 800 med thalassemia minor
+
+  - 4 med thalassemia major
+  
 1)  Beregn på basis af denne prøve allelfrekvenserne i populationen.
 
 2)  Er der Hardy-Weinberg proportioner?
