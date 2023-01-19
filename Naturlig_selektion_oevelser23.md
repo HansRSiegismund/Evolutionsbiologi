@@ -230,12 +230,14 @@ Derfor kan vi normere værdierne, hvor vi sætter den højeste værdi til 1.
 I det nævnte tilfælde bliver værdierne så ½, 1 og ½. Generelt kan vi
 udtrykke fitnessværdierne som i følgende tabel
 
-                     |*A*<sub>11</sub>|*A*<sub>12</sub>| *A*<sub>22</sub>|
----------------------|:--------------:|:--------------:|:---------------:|
-Fitness              |*W*<sub>11</sub>|*W*<sub>12</sub>|*W*<sub>22</sub> |
-Relativ fitness      |1 – *s*         |1               |1 – *t*          |
-Selektionskoefficient|   *s*          | 0              |*t*              |
+  
+|                     |*A*<sub>11</sub>|*A*<sub>12</sub>| *A*<sub>22</sub>|
+|---------------------|:--------------:|:--------------:|:---------------:|
+|Fitness              |*W*<sub>11</sub>|*W*<sub>12</sub>|*W*<sub>22</sub> |
+|Relativ fitness      |1 – *s*         |1               |1 – *t*          |
+|Selektionskoefficient|   *s*          | 0              |*t*              |
 
+  
 Fitnessværdiernes difference fra 1 betegner vi som
 ***selektionskoefficent***. Vi kan derfor udtrykke ligevægtspunktet for
 overdominans ved hjælp af selektionskoefficienterne *s* og *t.*
@@ -255,13 +257,11 @@ selektion, som er beskrevet foroven.
 Lad os tage et simpelt eksempel, hvor de tre genotypers fitness kan
 beskrives som
 
-*A*<sub>11</sub> *A*<sub>12</sub> *A*<sub>22</sub>
+|                     |*A*<sub>11</sub>|*A*<sub>12</sub>| *A*<sub>22</sub>|
+|---------------------|:--------------:|:--------------:|:---------------:|
+|Relativ fitness      |0,6             |1               |0,4              |
+|Selektionskoefficient|   0,4          | 0              |0,6              |
 
-———————————————————————————
-
-> Relativ fitness 0,6 1 0,4
->
-> Selektionskoefficient 0,4 0 0,6
 
 <img src="media/image23.png" style="width:2.88611in;height:2.87847in" />
 
@@ -269,6 +269,7 @@ For dette simple system ses, at ligevægten er *p* = 0,6/(0,4 + 0,6) =
 0,6. Ligegyldigt hvor vi starter med frekvensen af allel
 *A*<sub>1</sub>, så ender vi op i ligevægtspunktet. Vi afbilder nu
 populationens gennemsnitlige fitness
+$  \overline{W} =p^2W_{11}+2pqW_{12}+q^2W_{12} $
 
 > <img src="media/image2.png" style="width:2.01597in;height:0.27431in" />
 
