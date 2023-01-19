@@ -285,20 +285,16 @@ fitness over tid. Den har sit maksimum i den stabile ligevægt.*** Dette
 gælder også for de øvrige tilfælde, retningsselektion og underdominans.
 
 I tilfældet med underdominans kan det dog hænde, at naturlig selektion
-ikke ender med et ***globalt maksimum*** for
-<img src="media/image24.png" style="width:0.19375in;height:0.23403in" />,
-men kan ende op i et ***lokalt maksimum*** for
-<img src="media/image24.png" style="width:0.19375in;height:0.23403in" />*.*
+ikke ender med et ***globalt maksimum*** for  $\overline{W}$,
+men kan ende op i et ***lokalt maksimum*** for $\overline{W}$.
 Lad os tage et simpelt eksempel, hvor de tre genotypers fitness kan
 beskrives som
 
-*A*<sub>11</sub> *A*<sub>12</sub> *A*<sub>22</sub>
 
-———————————————————————————
-
-> Relativ fitness 1,4 1 1,6
->
-> Selektionskoefficient –0,4 0 –0,6
+|                     |*A*<sub>11</sub>|*A*<sub>12</sub>| *A*<sub>22</sub>|
+|---------------------|:--------------:|:--------------:|:---------------:|
+|Relativ fitness      |1,4             |1               | 1,6             |
+|Selektionskoefficient|  -0,4          | 0              |-0,6             |
 
 <img src="media/image25.png" style="width:2.88333in;height:2.52986in" />
 
@@ -306,7 +302,7 @@ Her skal vi ikke lade os forstyrre af de negative
 selektionskoefficienter. Det betyder blot, at de to homozygoter har en
 højere fitness end heterozygoten. Her er ligevægten *p* = –0,6/(–0,4 –
 0,6) = 0,6. Afbildes
-<img src="media/image24.png" style="width:0.19375in;height:0.23403in" />som
+$\overline{W}$ som
 funktion af frekvensen af allel *A*<sub>1</sub>, får vi figuren til
 højre. Det ses, at når vi starter med en frevens af allel
 *A*<sub>1</sub> under ligevægtsfrekvsensen, ender vi med en fiksering af
