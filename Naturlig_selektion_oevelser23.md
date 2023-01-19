@@ -230,15 +230,11 @@ Derfor kan vi normere værdierne, hvor vi sætter den højeste værdi til 1.
 I det nævnte tilfælde bliver værdierne så ½, 1 og ½. Generelt kan vi
 udtrykke fitnessværdierne som i følgende tabel
 
-*A*<sub>11</sub> *A*<sub>12</sub> *A*<sub>22</sub>
-
-———————————————————————————
-
-Fitness *W*<sub>11</sub> *W*<sub>12</sub> *W*<sub>22</sub>
-
-Relativ fitness 1 – *s* 1 1 – *t*
-
-Selektionskoefficient *s* 0 *t*
+                     |*A*<sub>11</sub>|*A*<sub>12</sub>| *A*<sub>22</sub>|
+---------------------|:--------------:|:--------------:|:---------------:|
+Fitness              |*W*<sub>11</sub>|*W*<sub>12</sub>|*W*<sub>22</sub> |
+Relativ fitness      |1 – *s*         |1               |1 – *t*          |
+Selektionskoefficient|   *s*          | 0              |*t*              |
 
 Fitnessværdiernes difference fra 1 betegner vi som
 ***selektionskoefficent***. Vi kan derfor udtrykke ligevægtspunktet for
