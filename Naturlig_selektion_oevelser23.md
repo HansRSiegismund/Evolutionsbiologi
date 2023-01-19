@@ -696,6 +696,8 @@ figuren.
 
 3.  Hvilken form for ligevægt er der tale om i de tre tilfælde?
 
+|        |       |
+|--------|-------|
 |Figur 1 |Figur 2|
 |Figur 3 |Figur 4|
   
