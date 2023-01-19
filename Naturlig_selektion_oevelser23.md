@@ -320,7 +320,7 @@ beskrives som
 |Selektionskoefficient|  -0,4          | 0              |-0,6             |
 
  <figure>
-  <img  align="right" src="SelunderD.png" width=175 title="Underdominans">
+  <img  align="right" src="SelAveWUnderD.png" width=250 title="Underdominans">
  </figure>
 
   Her skal vi ikke lade os forstyrre af de negative
