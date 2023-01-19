@@ -1,5 +1,4 @@
 <span style="font-family:cursive;"> 
-
 # Naturlig Selektion
 
 <br>
@@ -59,8 +58,6 @@ p' &=(p^2W_{11}+2pqW_{12}/2)/\overline{W}\\
    &=(p^2W_{11}+pqW_{12})/\overline{W}
 \end{align}
 $$
-
-  $\overline{W}$
 
 Frekvensen for allel *A*<sub>2</sub> bestemmes tilsvarende. Det hele kan
 sammenfattes i den følgende tabel
@@ -528,7 +525,7 @@ drift.<img src="media/image37.jpg" style="width:1.49653in;height:0.86944in" />
 **Besvares af gruppe
 4**<img src="media/image38.gif" style="width:2.07873in;height:1.61979in" />
 
-**Opgave 4**
+### Opgave 4
 
 Den californiske kondor (*Gymnogyps californianus*) har efter
 europæernes ankomst til Amerika været forfulgt. Det har resulteret i en
@@ -552,11 +549,9 @@ værdi på 0,09.
     kræfter hver for sig? (Der spørges efter en kombination af disse
     kræfter i spørgsmål c!)
 
-> ● mutation
->
-> ● genetisk drift
->
-> ● naturlig selektion
+ ● mutation
+ ● genetisk drift
+ ● naturlig selektion
 
 3)  Er det nødvendigt at antage, at to eller tre af disse kræfter virker
     sammen for at forklare hyppigheden af denne allel?
@@ -565,13 +560,10 @@ værdi på 0,09.
     ligevægt mellem mutation, der har en rate på *μ* = 10<sup>-6</sup>,
     og selektion? (Det vil sige, at populationen har opnået en
     størrelse, hvor drift ikke spiller nogen større rolle. I dette
-    tilfælde bestemmes ligevægtsfrekvensen som
-    <img src="media/image39.png" style="width:0.72569in;height:0.27431in" />,
+    tilfælde bestemmes ligevægtsfrekvensen som $q =\sqrt{\mu/s},
     hvor *s* er selektionskoefficienten mod den letale homozygot.)
 
-**Besvares af gruppe 5**
-
-**Opgave** **5**
+### Opgave 5
 
 Thalassemia major er en alvorlig anæmi, der ofte er letal tidligt i
 barnealderen. Sygdommen, der forekommer ret hyppigt bl.a. i dele af
@@ -582,12 +574,11 @@ mod malaria og derfor have en højere fitness end den normale homozygot.
 
 I en population ved undersøgte man 10.000 voksne personer og fandt
 
-9196 normale
-
-800 med thalassemia minor
-
-4 med thalassemia major
-
+\begin{itemize}
+\item 9196 normale
+\item 800 med thalassemia minor
+\item 4 med thalassemia major
+\end{itemize}
 1)  Beregn på basis af denne prøve allelfrekvenserne i populationen.
 
 2)  Er der Hardy-Weinberg proportioner?
@@ -604,9 +595,7 @@ I en population ved undersøgte man 10.000 voksne personer og fandt
     ved at dividere værdierne for de to homozygoter med heterozygotens
     værdi.
 
-**Besvares af gruppe 6**
-
-**Opgave 6**
+### Opgave 6
 
 Riddersporen *Delphinium nelsonii* er medlem af ranunkelfamilien. Den
 har normalt mørkeblå blomster. Hvid-blomstrede planter er homozygot
@@ -640,9 +629,7 @@ frøplanter.
 
 5)  Hvad er forklaringen på dette?
 
-**Besvares af gruppe 7**
-
-**Opgave 7**
+### Opgave 7
 
 En evolutionsbiolog har lavet fire simulationer, hvor populationens
 størrelse har været sat til 100 i alle tilfælde. I tre af tilfældene
