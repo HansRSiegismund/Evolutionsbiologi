@@ -562,7 +562,7 @@ værdi på 0,09.
     ligevægt mellem mutation, der har en rate på *μ* = 10<sup>-6</sup>,
     og selektion? (Det vil sige, at populationen har opnået en
     størrelse, hvor drift ikke spiller nogen større rolle. I dette
-    tilfælde bestemmes ligevægtsfrekvensen som $q =\sqrt{\mu/s},
+    tilfælde bestemmes ligevægtsfrekvensen som $q =\sqrt{\mu/s}$,
     hvor *s* er selektionskoefficienten mod den letale homozygot.)
 
 ### Opgave 5
