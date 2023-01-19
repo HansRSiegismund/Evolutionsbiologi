@@ -696,8 +696,16 @@ figuren.
 
 3.  Hvilken form for ligevægt er der tale om i de tre tilfælde?
 
-  |Figur 1 |Figur 2|
-  |Figur 3 |Figur 4|
+|Figur 1 |Figur 2|
+|Figur 3 |Figur 4|
+  
+
+|                     |*A*<sub>11</sub>|*A*<sub>12</sub>| *A*<sub>22</sub>|
+|---------------------|:--------------:|:--------------:|:---------------:|
+|Relativ fitness      |1,4             |1               | 1,6             |
+|Selektionskoefficient|  -0,4          | 0              |-0,6             |
+
+
   
   
  <figure>
