@@ -277,7 +277,7 @@ Når *p* = 0 er der udelukkende *A*<sub>22</sub> i populationen, som har
 en $\overline{W}$ på
 0,4, og når populationen er fikseret for *A*<sub>1</sub>, så er
 $\overline{W} = 0,6$. Vi ser, at
-$\overline{W}  har
+$\overline{W}$  har
 sit maksimum i ligevægten 0,6. Dermed stemmer evolutionen i dette simple
 system fint overens med vores intuition for evolution gennem naturlig
 selektion. ***Naturlig selektion virker ved at øge den gennemsnitlige
