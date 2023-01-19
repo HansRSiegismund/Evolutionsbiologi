@@ -91,7 +91,7 @@ $$
 \begin{aligned}
 \begin{array}{rl}
 \Delta p & = p'-p\\
-         & = (p^2W_{11} +pq W_{12})/\overline{W}\\
+         & = (p^2W_{11} +pq W_{12})/\overline{W} -p\\
          & = pq[(p(W_{11} - W_{12})-q(W_{22} - W_{12})]/\overline{W}
  \end{array}
 \end{aligned}
