@@ -519,7 +519,7 @@ gametofytisk selvuforeneligheds-system som beskrevet ovenfor.
 
 <details><summary>Klik for at se svaret.</summary>
 <p>
-Det gametofytiske selvuforenelighedssystem er et eksempel på ***selektion på det haploide niveau***. Med dette system, hvor pollen kun kan bestøve en plante, når det bærer en allel i selvuforenelighedssystemet, som ikke findes i denne plante i forvejen, vil der kun findes heterozygote individer. Det er også et eksempel på ***negativ frekvensafhængig selektion***, hvor pollen, der bærer en sjælden allel, stort set kan spire på alle andre planter end moderplanten  
+Det gametofytiske selvuforenelighedssystem er et eksempel på **selektion på det haploide niveau**. Med dette system, hvor pollen kun kan bestøve en plante, når det bærer en allel i selvuforenelighedssystemet, som ikke findes i denne plante i forvejen, vil der kun findes heterozygote individer. Det er også et eksempel på *negativ frekvensafhængig selektion*, hvor pollen, der bærer en sjælden allel, stort set kan spire på alle andre planter end moderplanten  
 </p>
 </details>
 
