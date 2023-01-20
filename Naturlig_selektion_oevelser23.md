@@ -528,10 +528,10 @@ Det gametofytiske selvuforenelighedssystem er et eksempel på selektion på det 
     krydsbestøvning?
 <details><summary>Klik for at se svaret.</summary>
 <p>
-Det minimale antal alleler er 3, med 2 kan der nemlig ikke produceres pollen med en genotype, der ikke i forvejen findes i et individ. Ligevægtsfrekvensen vil være ens for alle alleler i en population.  Ligevægten nås efter ret få generationer, se figuren til højre, der illustrerer et system med 4 alleler, hvor der introduceres en ny mutation, så antallet af alleler bliver 5.
  <figure>
-  <img  align="right" src="SelSelvuforenelighed.png" width=250 title="Evolution i et selvuforenelighedssystem">
+  <img  align="right" src="SelSelvuforenelighed.png" width=350 title="Evolution i et selvuforenelighedssystem">
  </figure>
+Det minimale antal alleler er 3, med 2 kan der nemlig ikke produceres pollen med en genotype, der ikke i forvejen findes i et individ. Ligevægtsfrekvensen vil være ens for alle alleler i en population.  Ligevægten nås efter ret få generationer, se figuren til højre, der illustrerer et system med 4 alleler, hvor der introduceres en ny mutation, så antallet af alleler bliver 5.
 
 </p>
 </details>
