@@ -858,7 +858,7 @@ $$ q^2 = 7,4 \times 10^{-4} \Leftrigtarrow   q = \sqrt{7,4 \times 10^{-4}}= 0,02
     Hardy-Weinberg proportioner i dette system.
 <details><summary>Klik for at se svaret.</summary>
 <p>
-	*q*<sup>2</sup> = 7,4 x 10<sup>-4<sup> <=> q = 0,0271
+	*q*<sup>2</sup> = 7,4 x 10<sup>-4</sup> <=> q = 0,0271
 	
 </p>
 </details>
