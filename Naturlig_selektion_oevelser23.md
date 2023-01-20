@@ -769,18 +769,15 @@ $$\begin{aligned}
 
   Nej. De forventede antal under antagelse af Hardy-Weinberg proportioner er
 	
-|		Genotype	 | thth	               | Thth	   |ThTh	              |   N   |
+|Genotype      | thth	             | Thth    |ThTh	            |   N   |
 |:------------:|:-------------------:|:-------:|:------------------:|:-----:|
-|		O	         |9196                 |800	     | 4	                |10000  |
-|		E	         |*p*<sup>2<sub> × *N* |2*pq × N*|*p*<sup>2<sub> × *N*|*N*    |
-|              |			    =	         |    =	   |   =                |       |
-|              |			9208,32        |775,36	 | 16,32              |       |
+|O             |9196                 |800      | 4	            |10000  |
+|E             |*p*<sup>2<sub> × *N* |2*pq × N*|*p*<sup>2<sub> × *N*|*N*    |
+|              |    =                | =       |   =                |       |
+|              |9208,32              |775,36   |16,32               |       |
 
-  
-	 	P = 0,00148
-
-
-</p>
+$\displaystyle\chi^2=\sum_i \frac{(O_i-E_i)^2}{E_i}=10,00\qquad P = 0,00148$
+  </p>
 </details>
 
 3)  Bestem indavlskoefficienten *F*. \[*F* = (*H<sub>e</sub>* –
