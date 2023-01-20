@@ -857,6 +857,19 @@ $$\begin{aligned}
 </p>
 </details>
 
+<details><summary>Klik for at se svaret.</summary>
+<p>
+ Ligevægtsfrekvensen mellem mutation og naturlig selektion er givet ved
+  $$q=\sqrt{10^{-6}/1}=0,001$$
+$$\begin{aligned}
+\begin{array}{rll}
+   p_{Th} & = (2 \times 9196 + 800) / (2 × 10000) &= 0.960\\
+   q_{th} & = (2 \times 4 + 800) / (2 × 10000)    &= 0.040\\
+ \end{array}
+\end{aligned}$$
+</p>
+</details>
+
 2)  Antag at frøsætningen hos blå- og hvidblomstrede planter afspejler
     deres fitness. Hvad er den relative fitness af planter med hvide
     blomster i forhold til planter med blå blomster?
