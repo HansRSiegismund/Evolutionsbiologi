@@ -750,6 +750,7 @@ I en population ved undersøgte man 10.000 voksne personer og fandt
 1)  Beregn på basis af denne prøve allelfrekvenserne i populationen.
 <details><summary>Klik for at se svaret.</summary>
 <p>
+
 $$\begin{aligned}
 \begin{array}{rll}
    p_{Th} & = (2 \times 9196 + 800) / (2 \times 10000) &= 0.960\\
@@ -770,6 +771,7 @@ $$\begin{aligned}
   *p*(Th) = (2 x 9196 + 800) / (2 × 10000) = 0.960
   
    *q*(th) = (2 x 4 + 800) / (2 × 10000)    = 0.040
+   
 2)  Er der Hardy-Weinberg proportioner?
 <details><summary>Klik for at se svaret.</summary>
 <p>
