@@ -885,7 +885,7 @@ skal mutationsraten bestemmes.
 4)  Hvad er mutationsraten?
 <details><summary>Klik for at se svaret.</summary>
 <p>
-	$$q=\sqrt{\mu/s}\eftrightarrow \mu=q^2s=7,4\times10^{-4}\times 0,376= 2,78\times10^{-4}$$
+	$$q=\sqrt{\mu/s}\Leftrightarrow \mu=q^2s=7,4\times10^{-4}\times 0,376= 2,78\times10^{-4}$$
 </p>
 </details>
 
