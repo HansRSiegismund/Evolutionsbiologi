@@ -726,7 +726,7 @@ Naturlig selektion: Nej.
 <details><summary>Klik for at se svaret.</summary>
 <p>
  Ligevægtsfrekvensen mellem mutation og naturlig selektion er givet ved
-  $$q=\sqrt{10^{-6}/1}$$
+  $$q=\sqrt{10^{-6}/1}=0,001$$
 </p>
 </details>
 
@@ -750,6 +750,14 @@ I en population ved undersøgte man 10.000 voksne personer og fandt
 1)  Beregn på basis af denne prøve allelfrekvenserne i populationen.
 <details><summary>Klik for at se svaret.</summary>
 <p>
+
+$$\begin{aligned}
+\begin{array}{rll}
+   p_{th} & = (2 \times 9196 + 800) / (2 × 10000) &= 0.960\\
+   q_{Th} & = (2 \times 4 + 800) / (2 × 10000)    &= 0.040\\
+ \end{array}
+\end{aligned}$$
+
 </p>
 </details>
 
