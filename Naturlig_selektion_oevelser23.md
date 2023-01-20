@@ -846,7 +846,7 @@ q<sup>2</sup> = 7,4 x 10<sup>-4</sup> <=> q = 0,0271
 
 <details><summary>Klik for at se svaret.</summary>
 <p>
-$$ q^2 = 7,4 \times 10^{-4}\Leftrightarrow  q = \sqrt{7,4 \times 10^{-4}}$$	
+	$$ q^2 = 7,4 \times 10^{-4}\Leftrightarrow  q = \sqrt{7,4 \times 10^{-4}}$$	
 </p>
 </details>
 
