@@ -846,12 +846,14 @@ hovedsageligt humlebier og kolibrier – foretrak de blå blomster.
     Hardy-Weinberg proportioner i dette system.
 <details><summary>Klik for at se svaret.</summary>
 <p>
+
 $$\begin{aligned}
 \begin{array}{rll}
    p_{Th} & = (2 \times 9196 + 800) / (2 × 10000) &= 0.960\\
    q_{th} & = (2 \times 4 + 800) / (2 × 10000)    &= 0.040\\
  \end{array}
 \end{aligned}$$
+
 </p>
 </details>
 
@@ -923,17 +925,6 @@ figuren.
 <p>
 </p>
 </details>
-
-<div align="center">
-
-  |        |       |
-|--------|-------|
-|Figur 1 |Figur 2|
-|Figur 3 |Figur 4|
-  
-   </div>
-
-</center>
 
  <figure>
   <img  align="center" src="SelDrift1.png" width=700 title="Drift og selektion">
