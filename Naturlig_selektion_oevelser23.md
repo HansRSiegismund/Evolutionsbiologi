@@ -820,9 +820,8 @@ d.v.s, at vi har et overskud af heterozygoter og et tilsvarende underskud af hom
 
 </center>	
 
-
  <figure>
-  <img  align="right" src="SelHaldane.png" width=225 title="Haldane">
+  <img  align="right" src="SelHaldane.png" width=80 title="Haldane">
  </figure>
 Den relative fitness er beregnet ved at dividere med den højeste fitness, som observeres hos heterozygoten. Der er derfor tale om overdominans, hvor heterozygoten har højere fitness end de to homozygoter. Haldane’s gæt i 1949 var derfor rigtigt
 </p>
@@ -931,7 +930,7 @@ figuren.
 </center>
 
  <figure>
-  <img  align="center" src="SelDrift.png" width=700 title="Drift og selektion">
+  <img  align="center" src="SelDrift1.png" width=700 title="Drift og selektion">
  </figure>
 
 [^1]: Haldane, J. B. S., 1949 Disease and evolution. Ric. Sci. Suppl. A
