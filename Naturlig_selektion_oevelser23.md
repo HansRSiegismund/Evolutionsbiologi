@@ -518,6 +518,19 @@ gametofytisk selvuforeneligheds-system som beskrevet ovenfor.
     selvuforeneligheds-alleler forventes at optræde i Hardy-Weinberg
     proportioner? Hvorfor, eller hvorfor ikke?
 
+<details><summary>Klik for at se svaret.</summary>
+<p>
+
+| Locus    |     |
+|:-------- |:---:|
+|I         |1,0  |
+|II        |0,9  |
+|III       |0,5  |
+|IV        |0,0  | 
+|V         |0,5  |
+</p>
+</details>
+
 2)  Hvad er det mindste antal selvuforeneligheds-alleler i et locus, som
     kræves for at en population af kløver kan formere sig alene ved
     krydsbestøvning?
