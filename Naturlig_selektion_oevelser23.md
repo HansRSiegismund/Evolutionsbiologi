@@ -611,6 +611,7 @@ genetisk drift.
     ligevægte.
 <details><summary>Klik for at se svaret.</summary>
 <p>
+  
 2 ustabile: *p* = 0 og *p* = 1 
 
 1 stabil:  *p* = *t*/(*s* + *t*) = 0.6/(0.4 + 0.6) = 0.6
@@ -625,6 +626,7 @@ genotype. Der ses igen bort fra genetisk drift.
 3)  Hvordan vil evolutionen i en sådan plante foregå?
 <details><summary>Klik for at se svaret.</summary>
 <p>
+Populationen fikseres for *A*<sub>1</sub>*A*<sub>1</sub>: Heterozygoten har en selektiv fordel, men i hver generation vil den spalte ud med hver homozygot og vil efterhånden forsvinde. Genotype *A*<sub>1</sub>*A*<sub>1</sub> har højere fitness end *A*<sub>2</sub>*A*<sub>2</sub> og vil over tiden blive fikseret.
 </p>
 </details>
 
