@@ -751,12 +751,9 @@ I en population ved undersøgte man 10.000 voksne personer og fandt
 <details><summary>Klik for at se svaret.</summary>
 <p>
 
-$$\begin{aligned}
-\begin{array}{rll}
-   p_{Th} & = (2 \times 9196 + 800) / (2 \times 10000) &= 0.960\\
-   q_{th} & = (2 \times 4 + 800) / (2 \times 10000)    &= 0.040
- \end{array}
-\end{aligned}$$
+*p*(Th) = (2 x 9196 + 800) / (2 × 10000) = 0.960
+  
+*q*(th) = (2 x 4 + 800) / (2 × 10000)    = 0.040
  
  </p>
 </details>
@@ -767,11 +764,7 @@ $$\begin{aligned}
    q_{th} & = (2 \times 4 + 800) / (2 \times 10000)    &= 0.040
  \end{array}
 \end{aligned}$$
-
-  *p*(Th) = (2 x 9196 + 800) / (2 × 10000) = 0.960
   
-   *q*(th) = (2 x 4 + 800) / (2 × 10000)    = 0.040
-   
 2)  Er der Hardy-Weinberg proportioner?
 <details><summary>Klik for at se svaret.</summary>
 <p>
@@ -872,8 +865,10 @@ $$\begin{aligned}
   $$q=\sqrt{10^{-6}/1}=0,001$$
 $$\begin{aligned}
 \begin{array}{rll}
-   p_{Th} & = (2 \times 9196 + 800) / (2 × 10000) &= 0.960\\
-   q_{th} & = (2 \times 4 + 800) / (2 × 10000)    &= 0.040\\
+ q^2 &= 7,4 \times 10^{-4}\\
+     &\Updownarrow\\
+   q &= \sqr{7,4 \times 10^{-4}}\\
+     &= 0,0272
  \end{array}
 \end{aligned}$$
 </p>
