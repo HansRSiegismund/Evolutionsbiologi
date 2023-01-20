@@ -4,7 +4,7 @@
 
 
 ## Hans R. Siegismund
-
+Here the text is normal, <SPAN STYLE="font-family:'Times New Roman'">here the text changes to Times New Roman,</SPAN> and here it returns to normal
 
 ## Teoretisk baggrund
 <font size="4"> 
