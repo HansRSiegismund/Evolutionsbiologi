@@ -341,8 +341,7 @@ beskrives som
   Her skal vi ikke lade os forstyrre af de negative
 selektionskoefficienter. Det betyder blot, at de to homozygoter har en
 højere fitness end heterozygoten. Her er ligevægten *p* = –0,6/(–0,4 –
-0,6) = 0,6. Afbildes
-$\overline{W}$ som
+0,6) = 0,6. Afbildes $\overline{W}$ som
 funktion af frekvensen af allel *A*<sub>1</sub>, får vi figuren til
 højre. Det ses, at når vi starter med en frevens af allel
 *A*<sub>1</sub> under ligevægtsfrekvsensen, ender vi med en fiksering af
@@ -412,11 +411,11 @@ $$\begin{aligned}
 
 Da *p* er tæt på 1, vil vi have
 
-$$sq^2\approx\mu$$,
+$$sq^2\approx\mu,$$
 
 som løses til
 
-$$q = \sqrt{\mu/s}$$,
+$$q = \sqrt{\mu/s},$$
 
 **Dominante skadelige gener** Her er de tre genotypers fitness givet med
 
@@ -451,11 +450,11 @@ Her dividerer med 2, da hver heterozygot kun bærer en *A*<sub>2</sub>
 allel. Vi husker på, at *p* er tæt på 1. I ligevægt mellem mutation og
 selektion må vi have, at
 
-$$qs = \mu$$,  
+$$qs = \mu,$$
 
 som løses til
 
-  $$q = \mu/s$$.
+  $$q = \mu/s.$$
 
 Der er stor forskel i allelernes ligevægtsfrekvenser, afhængig om det er
 en recessiv eller en dominant skadelig mutation. Betragt et autosomalt
@@ -520,20 +519,17 @@ gametofytisk selvuforeneligheds-system som beskrevet ovenfor.
 
 <details><summary>Klik for at se svaret.</summary>
 <p>
-
-| Locus    |     |
-|:-------- |:---:|
-|I         |1,0  |
-|II        |0,9  |
-|III       |0,5  |
-|IV        |0,0  | 
-|V         |0,5  |
 </p>
 </details>
 
 2)  Hvad er det mindste antal selvuforeneligheds-alleler i et locus, som
     kræves for at en population af kløver kan formere sig alene ved
     krydsbestøvning?
+<details><summary>Klik for at se svaret.</summary>
+<p>
+</p>
+</details>
+
 
 ### Opgave 2
 
@@ -551,8 +547,17 @@ hunner.
 
 1)  Hvad sker der med hyppigheden af *W*<sup>\*</sup>-kromosomet, når
     det introduceres i en population (der ses bort fra genetisk drift)?
+<details><summary>Klik for at se svaret.</summary>
+<p>
+</p>
+</details>
+
 
 2)  Hvad sker der med en sådan population?
+<details><summary>Klik for at se svaret.</summary>
+<p>
+</p>
+</details>
 
 Man behøver ikke regne for at besvare spørgsmålene!
 
@@ -573,6 +578,10 @@ bærerens fitness, som angivet i tabellen:
 
 1)  Hvilken form for selektion foregår? Hvad er selektionskoefficenterne
     for de to homozygoter?
+<details><summary>Klik for at se svaret.</summary>
+<p>
+</p>
+</details>
 
 Betragt en population af dyr med tilfældig parring, hvor vi har zygoter
 med Hardy-Weinberg proportioner og fitness som angivet ovenfor. Vi
@@ -582,6 +591,10 @@ genetisk drift.
 2)  Hvor mange ligevægte findes i dette system? Hvor mange stabile, hvor
     mange ustabile? Angiv frekvensen for allel 1 (*p*) for alle mulige
     ligevægte.
+<details><summary>Klik for at se svaret.</summary>
+<p>
+</p>
+</details>
 
  Betragt nu en population af en selvbestøvende plante med fitness som
 angivet ovenfor. De forplanter sig udelukkende ved selvbestøvning. Vi
@@ -589,6 +602,10 @@ betragter det samme locus. Antag, at vi starter med en 1/3 af hver
 genotype. Der ses igen bort fra genetisk drift.
 
 3)  Hvordan vil evolutionen i en sådan plante foregå?
+<details><summary>Klik for at se svaret.</summary>
+<p>
+</p>
+</details>
 
  <figure>
   <img  align="right" src="SelMaelkeboette.png" width=175 title="Mælkebøtte">
@@ -601,9 +618,17 @@ at fitness er som angivet ovenfor. Der ses igen bort fra genetisk
 drift.
 
 4)  Hvordan vil evolutionen i en sådan plante foregå?
+<details><summary>Klik for at se svaret.</summary>
+<p>
+</p>
+</details>
 
 5)  I hvilken af de tre nævnte tilfælde har populationen den højeste
     fitness, når der er opnået en ligevægt?
+<details><summary>Klik for at se svaret.</summary>
+<p>
+</p>
+</details>
 
 
 ### Opgave 4
@@ -625,6 +650,10 @@ recessiv letal allel.
     blandt de fjorten individer, der blev brugt til at grundlægge
     bestanden i fangenskab? Husk på, at en recessiv homozygot blandt
     afkommet har modtaget den recessive allel fra begge forældre.
+<details><summary>Klik for at se svaret.</summary>
+<p>
+</p>
+</details>
 
 Bestanden er siden hen vokset i antal og er nu oppe på omkring et par
 hundrede. En beregning af allelfrekvensen for chondrodystrofi viste en
@@ -640,8 +669,17 @@ værdi på 0,09.
   
  ● naturlig selektion
 
+<details><summary>Klik for at se svaret.</summary>
+<p>
+</p>
+</details>
+
 3)  Er det nødvendigt at antage, at to eller tre af disse kræfter virker
     sammen for at forklare hyppigheden af denne allel?
+<details><summary>Klik for at se svaret.</summary>
+<p>
+</p>
+</details>
 
 4)  Hvad forventes hyppigheden af allelen at blive, når der er opstået
     ligevægt mellem mutation, der har en rate på *μ* = 10<sup>-6</sup>,
@@ -649,6 +687,10 @@ værdi på 0,09.
     størrelse, hvor drift ikke spiller nogen større rolle. I dette
     tilfælde bestemmes ligevægtsfrekvensen som $q =\sqrt{\mu/s}$,
     hvor *s* er selektionskoefficienten mod den letale homozygot.)
+<details><summary>Klik for at se svaret.</summary>
+<p>
+</p>
+</details>
 
 ### Opgave 5
 
@@ -668,13 +710,25 @@ I en population ved undersøgte man 10.000 voksne personer og fandt
  ●  4 med thalassemia major
   
 1)  Beregn på basis af denne prøve allelfrekvenserne i populationen.
+<details><summary>Klik for at se svaret.</summary>
+<p>
+</p>
+</details>
 
 2)  Er der Hardy-Weinberg proportioner?
+<details><summary>Klik for at se svaret.</summary>
+<p>
+</p>
+</details>
 
 3)  Bestem indavlskoefficienten *F*. \[*F* = (*H<sub>e</sub>* –
     *H<sub>o</sub>*)/*H<sub>e</sub>*, hvor *H<sub>e</sub>* og
     *H<sub>o</sub>* er henholdsvis forventet og observeret hyppighed af
     heterozygoter.
+<details><summary>Klik for at se svaret.</summary>
+<p>
+</p>
+</details>
 
 4)  Antag, at de voksne er dannet ud fra zygoter med samme allelfrekvens
     som dem selv. Beregn på basis af dette deres absolutte fitness ved
@@ -682,6 +736,10 @@ I en population ved undersøgte man 10.000 voksne personer og fandt
     respektive forventede antal som zygoter. Beregn den relative fitness
     ved at dividere værdierne for de to homozygoter med heterozygotens
     værdi.
+<details><summary>Klik for at se svaret.</summary>
+<p>
+</p>
+</details>
 
 ### Opgave 6
   
@@ -700,17 +758,33 @@ hovedsageligt humlebier og kolibrier – foretrak de blå blomster.
 
 1)  Hvad er frekvensen af allelen for hvid? Antag, at der er
     Hardy-Weinberg proportioner i dette system.
+<details><summary>Klik for at se svaret.</summary>
+<p>
+</p>
+</details>
 
 2)  Antag at frøsætningen hos blå- og hvidblomstrede planter afspejler
     deres fitness. Hvad er den relative fitness af planter med hvide
     blomster i forhold til planter med blå blomster?
+<details><summary>Klik for at se svaret.</summary>
+<p>
+</p>
+</details>
 
 3)  Hvad er selektionskoefficienten mod den hvide allel?
+<details><summary>Klik for at se svaret.</summary>
+<p>
+</p>
+</details>
 
 Under antagelse af, at populationen er i mutations-selektionsligevægt,
 skal mutationsraten bestemmes.
 
 4)  Hvad er mutationsraten?
+<details><summary>Klik for at se svaret.</summary>
+<p>
+</p>
+</details>
 
 En sympatrisk slægtning til denne art, *Delphinium barbeyi*, har
 betydeligt mindre blomster, og modtager langt færre besøg af bier. Den
@@ -719,6 +793,10 @@ undersøgelse fandt man et systematisk overskud af homozygoter blandt
 frøplanter.
 
 5)  Hvad er forklaringen på dette?
+<details><summary>Klik for at se svaret.</summary>
+<p>
+</p>
+</details>
 
 ### Opgave 7
 
@@ -736,11 +814,23 @@ figuren.
     *W*<sub>BB</sub> relativt til hinanden. (F.eks. *W*<sub>AA</sub> \>
     *W*<sub>AB</sub> og *W*<sub>BB</sub> \> *W*<sub>AB</sub>) Begrundes
     kort.
+<details><summary>Klik for at se svaret.</summary>
+<p>
+</p>
+</details>
 
 2.  Tre af simulationerne har et sammenfaldende ligevægtspunkt. Hvad er
     allelfrekvensen af det?
+<details><summary>Klik for at se svaret.</summary>
+<p>
+</p>
+</details>
 
 3.  Hvilken form for ligevægt er der tale om i de tre tilfælde?
+<details><summary>Klik for at se svaret.</summary>
+<p>
+</p>
+</details>
 
 <div align="center">
 
