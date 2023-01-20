@@ -863,6 +863,7 @@ $$\begin{aligned}
 <p>
  Ligevægtsfrekvensen mellem mutation og naturlig selektion er givet ved
   $$q=\sqrt{10^{-6}/1}=0,001$$
+	
 $$\begin{aligned}
 \begin{array}{rll}
  q^2 &= 7,4 \times 10^{-4}\\
