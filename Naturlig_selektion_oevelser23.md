@@ -593,8 +593,11 @@ bærerens fitness, som angivet i tabellen:
 <details><summary>Klik for at se svaret.</summary>
 <p>
   
-Overdominant selektion. 	
-*A*<sub>1</sub>*A*<sub>1</sub>: *s* = 0.4 	*A*<sub>1</sub>*A*<sub>1</sub>: *t* = 0.6  
+Overdominant selektion. 
+  
+*A*<sub>1</sub>*A*<sub>1</sub>: *s* = 0.4 	
+  
+ *A*<sub>1</sub>*A*<sub>1</sub>: *t* = 0.6  
 </p>
 </details>
 
@@ -608,6 +611,9 @@ genetisk drift.
     ligevægte.
 <details><summary>Klik for at se svaret.</summary>
 <p>
+2 ustabile: *p* = 0 og *p* = 1 
+
+1 stabil:  *p* = *t*/(*s* + *t*) = 0.6/(0.4 + 0.6) = 0.6
 </p>
 </details>
 
