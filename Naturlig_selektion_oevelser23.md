@@ -555,6 +555,9 @@ hunner.
     det introduceres i en population (der ses bort fra genetisk drift)?
 <details><summary>Klik for at se svaret.</summary>
 <p>
+Vi har her et tilfælde af “meiotic drive” eller “segregation distortion”, hvor naturlig selektion virker på det haploide niveau. Mendel’s første lov bliver ikke overholdt. (Meiotic drive betyder ikke, at vi får en 0 : 1 udspaltning i stedet for Mendelsk 1 : 1 udspaltning. Det betyder blot, at vi ikke har den normale Mendelske udspaltning.)
+Hyppigheden af W*-kromosomet vil stige, når det introduceres i en population
+  
 </p>
 </details>
 
@@ -562,6 +565,9 @@ hunner.
 2)  Hvad sker der med en sådan population?
 <details><summary>Klik for at se svaret.</summary>
 <p>
+Frekvensen af W*-kromosomet vil til sidst nå 1, hvor der kun er hunner tilbage i populationen, der så vil uddø.
+Polymorfien kan opretholdes i et system af metapopulationer, hvor der findes “inficerede” og “uinficerede” populationer. “Inficerede” populationer vil efter en tid uddø, hvorpå de koloniseres fra “uinficerede” populationer igen. De “uinficerede” populationer vil ligeledes med en vis rate modtage individer, der bærer W* -kromosomet, og vil derefter uddø.
+
 </p>
 </details>
 
@@ -586,6 +592,9 @@ bærerens fitness, som angivet i tabellen:
     for de to homozygoter?
 <details><summary>Klik for at se svaret.</summary>
 <p>
+  
+Overdominant selektion. 	
+*A*<sub>1</sub>*A*<sub>1</sub>: *s* = 0.4 	*A*<sub>1</sub>*A*<sub>1</sub>: *t* = 0.6  
 </p>
 </details>
 
