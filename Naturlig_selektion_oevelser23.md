@@ -842,40 +842,15 @@ i Rocky Mountains forekommer der planter med hvide blomster med en
 frekvens på 7,4 × 10<sup>-4</sup>. Hvid-blomstrede planter satte i
 gennemsnit 143 frø per plante i modsætning til planter med blå blomster,
 der i gennemsnit satte 229 frø. Forskellen skyldes at pollinatorer –
-hovedsageligt humlebier og kolibrier – foretrak de blå blomster.
+hovedsageligt humlebier og kolibrier – foretrak de blå blomster.*q*
 
 1)  Hvad er frekvensen af allelen for hvid? Antag, at der er
     Hardy-Weinberg proportioner i dette system.
-<details><summary>Klik for at se svaret.</summary>
-<p>
-
-$$ q^2 = 7,4 \times 10^{-4} \Leftrigtarrow   q = \sqrt{7,4 \times 10^{-4}}= 0,0272$$
-	
-</p>
-</details>
-
-1)  Hvad er frekvensen af allelen for hvid? Antag, at der er
-    Hardy-Weinberg proportioner i dette system.
-<details><summary>Klik for at se svaret.</summary>
-<p>
-	*q*<sup>2</sup> = 7,4 x 10<sup>-4</sup> <=> q = 0,0271
-	
-</p>
-</details>
 
 <details><summary>Klik for at se svaret.</summary>
 <p>
- Ligevægtsfrekvensen mellem mutation og naturlig selektion er givet ved
-  $$q=\sqrt{10^{-6}/1}=0,001$$
+q<sup>2</sup> = 7,4 x 10<sup>-4</sup> <=> q = 0,0271
 	
-$$\begin{aligned}
-\begin{array}{rll}
- q^2 &= 7,4 \times 10^{-4}\\
-     &\Updownarrow\\
-   q &= \sqrt{7,4 \times 10^{-4}}\\
-     &= 0,0272
- \end{array}
-\end{aligned}$$
 </p>
 </details>
 
@@ -899,6 +874,7 @@ $$\begin{aligned}
 3)  Hvad er selektionskoefficienten mod den hvide allel?
 <details><summary>Klik for at se svaret.</summary>
 <p>
+	_w_<sub>hvid</sub> = 143/229 = 0,624 
 </p>
 </details>
 
