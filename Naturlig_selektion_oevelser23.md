@@ -849,7 +849,8 @@ hovedsageligt humlebier og kolibrier – foretrak de blå blomster.
 <details><summary>Klik for at se svaret.</summary>
 <p>
 
-$$ q^2 = 7,4 \times 10^{-4} \Leftrigtarrow   q = \sqrt{7,4 \times 10^{-4}}= 0,0272$$♠
+$$ q^2 = 7,4 \times 10^{-4} \Leftrigtarrow   q = \sqrt{7,4 \times 10^{-4}}= 0,0272$$
+	
 </p>
 </details>
 
