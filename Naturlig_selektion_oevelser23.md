@@ -1,10 +1,6 @@
 # Naturlig Selektion
 
-<span style="font-family:cursive;">
-
-
 ## Hans R. Siegismund
-Here the text is normal, <SPAN STYLE="font-family:'Times New Roman'">here the text changes to Times New Roman,</SPAN> and here it returns to normal
 
 ## Teoretisk baggrund
 <font size="4"> 
@@ -850,7 +846,7 @@ hovedsageligt humlebier og kolibrier – foretrak de blå blomster.*q*
 <details><summary>Klik for at se svaret.</summary>
 <p>
 q<sup>2</sup> = 7,4 x 10<sup>-4</sup> <=> q = 0,0271
-	
+$$ q^2 = 7,4 \times 10^{-4}\Leftrightarrow  q = \sqrt{7,4 \times 10^{-4}}$$	
 </p>
 </details>
 
@@ -862,6 +858,8 @@ $$\begin{aligned}
      &= 0,0272
  \end{array}
 \end{aligned}$$
+
+$$ q^2 = 7,4 \times 10^{-4}\Leftrightarrow  q = \sqrt{7,4 \times 10^{-4}}$$
 
 2)  Antag at frøsætningen hos blå- og hvidblomstrede planter afspejler
     deres fitness. Hvad er den relative fitness af planter med hvide
