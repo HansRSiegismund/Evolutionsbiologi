@@ -519,7 +519,7 @@ gametofytisk selvuforeneligheds-system som beskrevet ovenfor.
 
 <details><summary>Klik for at se svaret.</summary>
 <p>
-Det gametofytiske selvuforenelighedssystem er et eksempel på **selektion på det haploide niveau**. Med dette system, hvor pollen kun kan bestøve en plante, når det bærer en allel i selvuforenelighedssystemet, som ikke findes i denne plante i forvejen, vil der kun findes heterozygote individer. Det er også et eksempel på *negativ frekvensafhængig selektion*, hvor pollen, der bærer en sjælden allel, stort set kan spire på alle andre planter end moderplanten  
+Det gametofytiske selvuforenelighedssystem er et eksempel på selektion på det haploide niveau. Med dette system, hvor pollen kun kan bestøve en plante, når det bærer en allel i selvuforenelighedssystemet, som ikke findes i denne plante i forvejen, vil der kun findes heterozygote individer. Det er også et eksempel på negativ frekvensafhængig selektion, hvor pollen, der bærer en sjælden allel, stort set kan spire på alle andre planter end moderplanten  
 </p>
 </details>
 
@@ -528,6 +528,11 @@ Det gametofytiske selvuforenelighedssystem er et eksempel på **selektion på de
     krydsbestøvning?
 <details><summary>Klik for at se svaret.</summary>
 <p>
+Det minimale antal alleler er 3, med 2 kan der nemlig ikke produceres pollen med en genotype, der ikke i forvejen findes i et individ. Ligevægtsfrekvensen vil være ens for alle alleler i en population.  Ligevægten nås efter ret få generationer, se figuren til højre, der illustrerer et system med 4 alleler, hvor der introduceres en ny mutation, så antallet af alleler bliver 5.
+ <figure>
+  <img  align="right" src="SelSelvuforenelighed.png" width=250 title="Evolution i et selvuforenelighedssystem">
+ </figure>
+
 </p>
 </details>
 
