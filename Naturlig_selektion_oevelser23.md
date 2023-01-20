@@ -761,6 +761,13 @@ $$\begin{aligned}
 </p>
 </details>
 
+$$\begin{aligned}
+\begin{array}{rll}
+   p_{th} & = (2 \times 9196 + 800) / (2 × 10000) &= 0.960\\
+   q_{Th} & = (2 \times 4 + 800) / (2 × 10000)    &= 0.040\\
+ \end{array}
+\end{aligned}$$
+
 2)  Er der Hardy-Weinberg proportioner?
 <details><summary>Klik for at se svaret.</summary>
 <p>
