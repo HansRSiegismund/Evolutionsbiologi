@@ -626,6 +626,7 @@ genotype. Der ses igen bort fra genetisk drift.
 3)  Hvordan vil evolutionen i en sådan plante foregå?
 <details><summary>Klik for at se svaret.</summary>
 <p>
+  
 Populationen fikseres for *A*<sub>1</sub>*A*<sub>1</sub>: Heterozygoten har en selektiv fordel, men i hver generation vil den spalte ud med hver homozygot og vil efterhånden forsvinde. Genotype *A*<sub>1</sub>*A*<sub>1</sub> har højere fitness end *A*<sub>2</sub>*A*<sub>2</sub> og vil over tiden blive fikseret.
 </p>
 </details>
@@ -643,6 +644,7 @@ drift.
 4)  Hvordan vil evolutionen i en sådan plante foregå?
 <details><summary>Klik for at se svaret.</summary>
 <p>
+Heterozygoten vinder. Den har den højeste fitness og bliver fikseret i populationen.  
 </p>
 </details>
 
@@ -650,6 +652,7 @@ drift.
     fitness, når der er opnået en ligevægt?
 <details><summary>Klik for at se svaret.</summary>
 <p>
+  I tilfælde for den apomiktiske plante, der bliver fikseret for heterozygoten med fitness 1.
 </p>
 </details>
 
@@ -675,6 +678,9 @@ recessiv letal allel.
     afkommet har modtaget den recessive allel fra begge forældre.
 <details><summary>Klik for at se svaret.</summary>
 <p>
+$q \ge 2/(2 x 14) = 0,071$.
+  
+Der må mindst have været to heterozygoter blandt de fjorten individer.
 </p>
 </details>
 
