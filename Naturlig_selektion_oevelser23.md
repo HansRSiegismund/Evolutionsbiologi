@@ -771,7 +771,7 @@ $$\begin{aligned}
 
 <div align="center">
 	
-|Genotype      | thth	             | Thth    |ThTh	             |   N   |
+|Genotype      | ThtT	             | Thth    |thth	             |   N   |
 |:------------:|:-------------------:|:-------:|:-------------------:|:-----:|
 |O             |9196                 |800      | 4	             |10000  |
 |E             |*p*<sup>2</sup> × *N*|2*pq × N*|*p*<sup>2</sup> × *N*|*N*    |
@@ -807,6 +807,24 @@ d.v.s, at vi har et overskud af heterozygoter og et tilsvarende underskud af hom
     værdi.
 <details><summary>Klik for at se svaret.</summary>
 <p>
+<div align="center">
+	
+|Genotype             | ThTh                | Thth    |thth	|   N   |
+|:-------------------:|---------------------|---------|---------|:-----:|
+|Overlevende (O)      |9196                 |800      | 4	|10000  |
+|Zygoter (Z)          |9208,32              |775,36   |16,32    |       |
+|Absolut fitness (O/Z)|0,99866              |1,03178  |0,2450   |       |
+|Relativ fitness      |0,9679               |1        |0,2375   |       |
+   
+</div>
+
+</center>	
+
+
+ <figure>
+  <img  align="right" src="SelHaldane.png" width=225 title="Haldane">
+ </figure>
+Den relative fitness er beregnet ved at dividere med den højeste fitness, som observeres hos heterozygoten. Der er derfor tale om overdominans, hvor heterozygoten har højere fitness end de to homozygoter. Haldane’s gæt i 1949 var derfor rigtigt
 </p>
 </details>
 
