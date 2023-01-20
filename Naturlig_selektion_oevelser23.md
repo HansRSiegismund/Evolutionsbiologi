@@ -750,16 +750,16 @@ I en population ved undersøgte man 10.000 voksne personer og fandt
 1)  Beregn på basis af denne prøve allelfrekvenserne i populationen.
 <details><summary>Klik for at se svaret.</summary>
 <p>
-   *p*(th) = (2 x 9196 + 800) / (2 × 10000) = 0.960
+   *p*(Th) = (2 x 9196 + 800) / (2 × 10000) = 0.960
   
-   *q*(Th) = (2 x 4 + 800) / (2 × 10000)    = 0.040
+   *q*(th) = (2 x 4 + 800) / (2 × 10000)    = 0.040
  </p>
 </details>
 
 $$\begin{aligned}
 \begin{array}{rll}
-   p_{th} & = (2 \times 9196 + 800) / (2 × 10000) &= 0.960\\
-   q_{Th} & = (2 \times 4 + 800) / (2 × 10000)    &= 0.040\\
+   p_{Th} & = (2 \times 9196 + 800) / (2 × 10000) &= 0.960\\
+   q_{th} & = (2 \times 4 + 800) / (2 × 10000)    &= 0.040\\
  \end{array}
 \end{aligned}$$
 
@@ -810,7 +810,7 @@ d.v.s, at vi har et overskud af heterozygoter og et tilsvarende underskud af hom
 <div align="center">
 	
 |Genotype             | ThTh                | Thth    |thth	|   N   |
-|:-------------------:|---------------------|---------|---------|:-----:|
+|---------------------|---------------------|---------|---------|:-----:|
 |Overlevende (O)      |9196                 |800      | 4	|10000  |
 |Zygoter (Z)          |9208,32              |775,36   |16,32    |       |
 |Absolut fitness (O/Z)|0,99866              |1,03178  |0,2450   |       |
@@ -846,6 +846,12 @@ hovedsageligt humlebier og kolibrier – foretrak de blå blomster.
     Hardy-Weinberg proportioner i dette system.
 <details><summary>Klik for at se svaret.</summary>
 <p>
+$$\begin{aligned}
+\begin{array}{rll}
+   p_{Th} & = (2 \times 9196 + 800) / (2 × 10000) &= 0.960\\
+   q_{th} & = (2 \times 4 + 800) / (2 × 10000)    &= 0.040\\
+ \end{array}
+\end{aligned}$$
 </p>
 </details>
 
