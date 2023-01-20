@@ -766,6 +766,20 @@ $$\begin{aligned}
 2)  Er der Hardy-Weinberg proportioner?
 <details><summary>Klik for at se svaret.</summary>
 <p>
+
+  Nej. De forventede antal under antagelse af Hardy-Weinberg proportioner er
+	
+|		Genotype	 | thth	               | Thth	   |ThTh	              |   N   |
+|:------------:|:-------------------:|:-------:|:------------------:|:-----:|
+|		O	         |9196                 |800	     | 4	                |10000  |
+|		E	         |*p*<sup>2<sub> × *N* |2*pq × N*|*p*<sup>2<sub> × *N*|*N*    |
+|              |			    =	         |    =	   |   =                |       |
+|              |			9208,32        |775,36	 | 16,32              |       |
+
+  
+	 	P = 0,00148
+
+
 </p>
 </details>
 
