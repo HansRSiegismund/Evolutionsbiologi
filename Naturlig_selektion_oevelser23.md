@@ -854,6 +854,16 @@ $$ q^2 = 7,4 \times 10^{-4} \Leftrigtarrow   q = \sqrt{7,4 \times 10^{-4}}= 0,02
 </p>
 </details>
 
+1)  Hvad er frekvensen af allelen for hvid? Antag, at der er
+    Hardy-Weinberg proportioner i dette system.
+<details><summary>Klik for at se svaret.</summary>
+<p>
+
+$$ q^2 = 7,4 \times 10^{-4}$$
+	
+</p>
+</details>
+
 <details><summary>Klik for at se svaret.</summary>
 <p>
  Ligevægtsfrekvensen mellem mutation og naturlig selektion er givet ved
