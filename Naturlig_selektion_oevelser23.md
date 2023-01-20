@@ -867,7 +867,7 @@ $$\begin{aligned}
 \begin{array}{rll}
  q^2 &= 7,4 \times 10^{-4}\\
      &\Updownarrow\\
-   q &= \sqr{7,4 \times 10^{-4}}\\
+   q &= \sqrt{7,4 \times 10^{-4}}\\
      &= 0,0272
  \end{array}
 \end{aligned}$$
