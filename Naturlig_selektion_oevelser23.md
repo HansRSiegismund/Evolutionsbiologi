@@ -842,13 +842,11 @@ hovedsageligt humlebier og kolibrier – foretrak de blå blomster.*q*
 
 1)  Hvad er frekvensen af allelen for hvid? Antag, at der er
     Hardy-Weinberg proportioner i dette system.
+q<sup>2</sup> = 7,4 x 10<sup>-4</sup> <=> q = 0,0271
 
 <details><summary>Klik for at se svaret.</summary>
 <p>
-q<sup>2</sup> = 7,4 x 10<sup>-4</sup> <=> q = 0,0271
-	
 $$ q^2 = 7,4 \times 10^{-4}\Leftrightarrow  q = \sqrt{7,4 \times 10^{-4}}$$	
-	
 </p>
 </details>
 
