@@ -678,7 +678,7 @@ recessiv letal allel.
     afkommet har modtaget den recessive allel fra begge forældre.
 <details><summary>Klik for at se svaret.</summary>
 <p>
-$q \ge 2/(2 x 14) = 0,071$.
+$q \ge 2/(2 \times 14) = 0,071$.
   
 Der må mindst have været to heterozygoter blandt de fjorten individer.
 </p>
@@ -700,6 +700,12 @@ værdi på 0,09.
 
 <details><summary>Klik for at se svaret.</summary>
 <p>
+Mutation: Nej.
+
+Genetisk drift: Ja
+
+Naturlig selektion: Nej.
+  
 </p>
 </details>
 
@@ -707,6 +713,7 @@ værdi på 0,09.
     sammen for at forklare hyppigheden af denne allel?
 <details><summary>Klik for at se svaret.</summary>
 <p>
+  Allelen er opstået gennem mutation og har gennem genetisk drift opnået den høje frekvens. (Naturlig selektion eliminerer denne allel og ville således ikke kunne forklares den høje frekvens af allelen.).
 </p>
 </details>
 
@@ -718,6 +725,8 @@ værdi på 0,09.
     hvor *s* er selektionskoefficienten mod den letale homozygot.)
 <details><summary>Klik for at se svaret.</summary>
 <p>
+ Ligevægtsfrekvensen mellem mutation og naturlig selektion er givet ved
+  $$q=\sqrt{10^{-6}/1}$$
 </p>
 </details>
 
