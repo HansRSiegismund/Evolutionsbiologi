@@ -774,7 +774,7 @@ $$\begin{aligned}
 |Genotype      | thth	             | Thth    |ThTh	             |   N   |
 |:------------:|:-------------------:|:-------:|:-------------------:|:-----:|
 |O             |9196                 |800      | 4	             |10000  |
-|E             |*p*<sup>2</sub> × *N*|2*pq × N*|*p*<sup>2</sub> × *N*|*N*    |
+|E             |*p*<sup>2</sup> × *N*|2*pq × N*|*p*<sup>2</sup> × *N*|*N*    |
 |              |    =                | =       |   =                 |       |
 |              |9208,32              |775,36   |16,32                |       |
    
@@ -792,6 +792,7 @@ $$\displaystyle\chi^2=\sum_i \frac{(O_i-E_i)^2}{E_i}=10,00\qquad P = 0,00148$$
     heterozygoter.
 <details><summary>Klik for at se svaret.</summary>
 <p>
+	
 *F* = (775,36 – 800)/775,36 = –0,03,
 
 d.v.s, at vi har et overskud af heterozygoter og et tilsvarende underskud af homozygoter i forhold til de forventede Hardy-Weinberg proportioner.
