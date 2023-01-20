@@ -868,13 +868,14 @@ $$\begin{aligned}
     blomster i forhold til planter med blå blomster?
 <details><summary>Klik for at se svaret.</summary>
 <p>
+	w<sub>hvid</sub> = 143/229 = 0,624 
 </p>
 </details>
 
 3)  Hvad er selektionskoefficienten mod den hvide allel?
 <details><summary>Klik for at se svaret.</summary>
 <p>
-	_w_<sub>hvid</sub> = 143/229 = 0,624 
+s = 1 – 0.624 = 0,376	
 </p>
 </details>
 
@@ -884,6 +885,7 @@ skal mutationsraten bestemmes.
 4)  Hvad er mutationsraten?
 <details><summary>Klik for at se svaret.</summary>
 <p>
+	$$•q=\sqrt{\mu(s}$$
 </p>
 </details>
 
