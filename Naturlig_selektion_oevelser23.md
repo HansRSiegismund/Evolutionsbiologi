@@ -846,7 +846,9 @@ hovedsageligt humlebier og kolibrier – foretrak de blå blomster.*q*
 <details><summary>Klik for at se svaret.</summary>
 <p>
 q<sup>2</sup> = 7,4 x 10<sup>-4</sup> <=> q = 0,0271
+	
 $$ q^2 = 7,4 \times 10^{-4}\Leftrightarrow  q = \sqrt{7,4 \times 10^{-4}}$$	
+	
 </p>
 </details>
 
@@ -866,7 +868,7 @@ $$ q^2 = 7,4 \times 10^{-4}\Leftrightarrow  q = \sqrt{7,4 \times 10^{-4}}$$
     blomster i forhold til planter med blå blomster?
 <details><summary>Klik for at se svaret.</summary>
 <p>
-	w<sub>hvid</sub> = 143/229 = 0,624 
+	*w*<sub>hvid</sub> = 143/229 = 0,624 
 </p>
 </details>
 
@@ -896,6 +898,7 @@ frøplanter.
 5)  Hvad er forklaringen på dette?
 <details><summary>Klik for at se svaret.</summary>
 <p>
+	En del af frøplanterne er produceret ved selvbestøvning og er dermed indavlede, hvilket medfører overskud af homozygoter i populationen.
 </p>
 </details>
 
@@ -915,11 +918,17 @@ figuren.
     *W*<sub>BB</sub> relativt til hinanden. (F.eks. *W*<sub>AA</sub> \>
     *W*<sub>AB</sub> og *W*<sub>BB</sub> \> *W*<sub>AB</sub>) Begrundes
     kort.
-<details><summary>Klik for at se svaret.</summary>
+    *W*<sub>AA</sub>
+<!--- <details><summary>Klik for at se svaret.</summary> --->
 <p>
+I: Overdominant selektion. *W*<sub>AA</sub> < WAB og WBB < WAB. Allelfrekvenserne holder sig tæt omkring 0,1, men i de fleste populationer fikseres allel B.
+II: Ingen selektion. WAA = WAB = WBB. Allelfrekvenserne bevæger sig tilfældigt op og ned. Desuden fikseres 5 populationer for allel A, hvilket er lig med forventningen, da 5/50 = 0,1, hvilket var allelfrekvensen til at starte med.
+III: Retningsselektion. WAA, ≥ WAB ≥ WBB med højst ét lighedstegn. Langt de fleste populationer fikseres for allel A.
+IV: Underdominant selektion.  WAA > WAB og WBB > WAB. Vi ser, at når en population får en frekvens af A på over 0,5 bliver den altid fikseret for allel A. Ændringerne i allelfrekvenser er ikke så tilfældige, som man forventer med genetisk drift.
+	
 </p>
 </details>
-
+*W*<sub>AA</sub>
 2.  Tre af simulationerne har et sammenfaldende ligevægtspunkt. Hvad er
     allelfrekvensen af det?
 <details><summary>Klik for at se svaret.</summary>
