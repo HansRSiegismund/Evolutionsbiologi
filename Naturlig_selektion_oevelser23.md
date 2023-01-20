@@ -874,6 +874,15 @@ $$\begin{aligned}
 </p>
 </details>
 
+$$\begin{aligned}
+\begin{array}{rll}
+ q^2 &= 7,4 \times 10^{-4}\\
+     &\Updownarrow\\
+   q &= \sqrt{7,4 \times 10^{-4}}\\
+     &= 0,0272
+ \end{array}
+\end{aligned}$$
+
 2)  Antag at frøsætningen hos blå- og hvidblomstrede planter afspejler
     deres fitness. Hvad er den relative fitness af planter med hvide
     blomster i forhold til planter med blå blomster?
